@@ -1,0 +1,1348 @@
+2025-04-04-11.40.03.753 INFO 0566 TEMPERATURE: Cooling fan FAN2 failed in node 0566
+2025-04-04-11.40.04.067 WARNING 0102 NETWORK: Network interface eth0 down on node 0102
+2025-04-04-11.40.05.010 ERROR 0530 SCHEDULER: Resource availability updated: 153 CPUs, 7420 GB memory
+2025-04-04-11.40.05.258 ERROR 0586 PROCESSOR: CPU idle at 76% on node 0586
+2025-04-04-11.40.09.452 INFO 0336 PROCESSOR: Core 1 running optimally on node 0336
+2025-04-04-11.40.11.384 INFO 0480 POWER: Power consumption at 729 watts
+2025-04-04-11.40.13.853 INFO 0341 NETWORK: Link flapping detected on interface eth1
+2025-04-04-11.40.16.944 INFO 0721 KERNEL: System call open failed with error 136
+2025-04-04-11.40.19.398 INFO 0125 NETWORK: Link flapping detected on interface eth1
+2025-04-04-11.40.20.051 INFO 0368 POWER: Entering power saving mode on node 0368
+2025-04-04-11.40.21.648 ERROR 0875 PROCESSOR: Processor 6 throttling due to temperature
+2025-04-04-11.40.26.178 INFO 0254 PROCESSOR: Processor 31 throttling due to temperature
+2025-04-04-11.40.28.917 INFO 0331 APPLICATION: Performance degradation detected in job 4085
+2025-04-04-11.40.29.445 INFO 0774 KERNEL: Task scheduler optimized on node 0774
+2025-04-04-11.40.33.543 INFO 0431 KERNEL: Process 32633 started with priority 24
+2025-04-04-11.40.36.904 INFO 0681 KERNEL: Kernel panic on node 0681, process 26569 terminated
+2025-04-04-11.40.40.886 INFO 0968 FILESYSTEM: Quota usage at 37% on filesystem /home
+2025-04-04-11.40.45.710 WARNING 0082 NETWORK: Connectivity verified between node 0082 and 0770
+2025-04-04-11.40.49.175 INFO 0764 POWER: UPS activated due to power instability
+2025-04-04-11.40.51.288 INFO 0663 FILESYSTEM: File corruption detected at /path/to/file_67.dat
+2025-04-04-11.40.52.126 INFO 0917 FILESYSTEM: Filesystem /var remounted read-only due to errors
+2025-04-04-11.40.52.821 INFO 0809 TEMPERATURE: Cooling fan FAN8 failed in node 0809
+2025-04-04-11.40.52.949 INFO 0904 FILESYSTEM: File corruption detected at /path/to/file_775.dat
+2025-04-04-11.40.57.062 INFO 0423 NETWORK: Network configuration updated on node 0423
+2025-04-04-11.41.00.942 INFO 0454 TEMPERATURE: Cooling system operating normally on node 0454
+2025-04-04-11.41.04.305 INFO 0556 IO: I/O wait time increased to 206 ms
+2025-04-04-11.41.05.310 INFO 1006 FILESYSTEM: Inode table overflow on /scratch
+2025-04-04-11.41.05.347 INFO 0685 FILESYSTEM: File corruption detected at /path/to/file_842.dat
+2025-04-04-11.41.08.361 INFO 0135 MEMORY: Swap usage at 9% on node 0135
+2025-04-04-11.41.11.547 WARNING 0730 MEMORY: Memory usage at 27% on node 0730
+2025-04-04-11.41.11.611 INFO 0052 KERNEL: System performance metrics collected on node 0052
+2025-04-04-11.41.13.456 INFO 0356 SCHEDULER: Scheduler load balanced across 43 nodes
+2025-04-04-11.41.14.905 WARNING 0806 TEMPERATURE: Temperature critical at 80°C in rack R03
+2025-04-04-11.41.17.633 INFO 0283 IO: Disk /dev/sdf full on node 0283
+2025-04-04-11.41.20.468 INFO 0699 APPLICATION: Application gromacs requested 70 GB memory
+2025-04-04-11.41.20.999 INFO 0203 MEMORY: Memory leak detected in process 18474
+2025-04-04-11.41.21.422 INFO 0135 PROCESSOR: Core 16 running optimally on node 0135
+2025-04-04-11.41.24.638 INFO 0436 SCHEDULER: Job 2011 failed with exit code 198
+2025-04-04-11.41.28.268 INFO 0563 APPLICATION: Performance degradation detected in job 2196
+2025-04-04-11.41.30.686 INFO 0885 SCHEDULER: Job 5090 failed with exit code 215
+2025-04-04-11.41.34.586 INFO 0304 TEMPERATURE: Temperature critical at 57°C in rack R02
+2025-04-04-11.41.37.113 INFO 0471 NETWORK: Network interface eth3 down on node 0471
+2025-04-04-11.41.39.586 INFO 0518 APPLICATION: Checkpoint created for job 1939 at 2025-04-04-11.41.38.055
+2025-04-04-11.41.43.772 INFO 0674 SCHEDULER: Queue status: 21 jobs waiting, 40 jobs running
+2025-04-04-11.41.49.917 INFO 0022 APPLICATION: Checkpoint created for job 7905 at 2025-04-04-11.41.46.113
+2025-04-04-11.41.54.076 INFO 0868 IO: Write error on file /path/to/file_528.dat
+2025-04-04-11.41.58.078 ERROR 0400 POWER: Power supply status normal on rack R05
+2025-04-04-11.41.59.248 INFO 0958 PROCESSOR: Processor completed 3631411 cycles
+2025-04-04-11.42.03.281 ERROR 0169 NETWORK: TCP connection timeout on port 38638
+2025-04-04-11.42.04.331 INFO 0850 PROCESSOR: CPU idle at 21% on node 0850
+2025-04-04-11.42.07.689 ERROR 0090 FILESYSTEM: Inode table overflow on /home
+2025-04-04-11.42.07.897 ERROR 0292 SCHEDULER: Job 1297 completed in 35191 seconds
+2025-04-04-11.42.10.981 INFO 1010 PROCESSOR: CPU utilization at 76% on node 1010
+2025-04-04-11.42.13.287 WARNING 0927 PROCESSOR: Processor 30 throttling due to temperature
+2025-04-04-11.42.16.224 WARNING 0231 SCHEDULER: Job 6601 scheduled on nodes 0863-0864
+2025-04-04-11.42.19.658 ERROR 0153 MEMORY: Out of memory error, killed process 343
+2025-04-04-11.42.21.657 INFO 0045 SCHEDULER: Job 8754 failed with exit code 139
+2025-04-04-11.42.25.853 INFO 0029 SCHEDULER: Queue status: 100 jobs waiting, 446 jobs running
+2025-04-04-11.42.26.766 INFO 0837 SCHEDULER: Scheduler load balanced across 5 nodes
+2025-04-04-11.42.29.591 ERROR 0117 FILESYSTEM: Journal commit failure on /scratch
+2025-04-04-11.42.29.814 INFO 0643 PROCESSOR: CPU idle at 2% on node 0643
+2025-04-04-11.42.31.939 WARNING 0435 PROCESSOR: Core 18 running optimally on node 0435
+2025-04-04-11.42.32.493 INFO 0694 PROCESSOR: Processor completed 7973411 cycles
+2025-04-04-11.42.34.013 INFO 0569 MEMORY: Memory check completed: SUCCESS
+2025-04-04-11.42.36.977 INFO 0538 APPLICATION: Job 8341 resource usage within expected parameters
+2025-04-04-11.42.37.387 FATAL 0073 FILESYSTEM: Journal commit failure on /tmp
+2025-04-04-11.42.40.980 INFO 0006 TEMPERATURE: Temperature normalized at 25°C
+2025-04-04-11.42.42.170 WARNING 0459 FILESYSTEM: Journal commit failure on /scratch
+2025-04-04-11.42.46.473 WARNING 0290 MEMORY: Memory ECC error detected at address 0xf30f820c on node 0290
+2025-04-04-11.42.49.167 WARNING 0290 MEMORY: Memory ECC error detected at address 0xf368af97 on node 0290
+2025-04-04-11.42.50.050 FATAL 0290 MEMORY: Uncorrectable memory errors on node 0290, taking node offline
+2025-04-04-11.42.51.115 INFO 0557 TEMPERATURE: Temperature stable at 58°C in rack R14
+2025-04-04-11.42.55.914 ERROR 0290 MEMORY: Memory errors continue on node 0290, address range 0x699b81ce
+2025-04-04-11.43.00.297 ERROR 0290 MEMORY: Memory errors continue on node 0290, address range 0x08afabc2
+2025-04-04-11.43.03.246 ERROR 0290 MEMORY: Memory errors continue on node 0290, address range 0x49201324
+2025-04-04-11.43.08.141 ERROR 0868 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-11.43.09.928 ERROR 0290 MEMORY: Memory errors continue on node 0290, address range 0xd93506c8
+2025-04-04-11.43.09.959 ERROR 0290 MEMORY: Memory errors continue on node 0290, address range 0x25adf534
+2025-04-04-11.43.12.782 INFO 0316 SCHEDULER: Queue status: 97 jobs waiting, 351 jobs running
+2025-04-04-11.43.17.605 ERROR 0290 MEMORY: Memory errors continue on node 0290, address range 0xff6e606e
+2025-04-04-11.43.17.940 INFO 0293 POWER: Power supply PSU4 failed on rack R09
+2025-04-04-11.43.22.565 ERROR 0498 IO: Read timeout on device /dev/sdb
+2025-04-04-11.43.24.175 ERROR 0290 MEMORY: Uncorrectable memory error at 0x4b63aebe on node 0290
+2025-04-04-11.43.28.478 INFO 0271 KERNEL: Task scheduler optimized on node 0271
+2025-04-04-11.43.31.532 INFO 0091 POWER: Voltage fluctuation detected on rail 12V
+2025-04-04-11.43.34.775 INFO 0894 TEMPERATURE: HVAC system error code E018
+2025-04-04-11.43.39.377 ERROR 0290 MEMORY: Memory errors continue on node 0290, address range 0x7ddca721
+2025-04-04-11.43.40.343 WARNING 0765 KERNEL: Kernel panic on node 0765, process 6972 terminated
+2025-04-04-11.43.43.780 INFO 0297 POWER: Power consumption at 1214 watts
+2025-04-04-11.43.45.039 WARNING 0077 POWER: Voltage fluctuation detected on rail 3.3V
+2025-04-04-11.43.48.685 ERROR 0502 TEMPERATURE: Thermal throttling activated on node 0502
+2025-04-04-11.43.51.251 INFO 0582 SCHEDULER: Job 2028 scheduled on nodes 0685-0686
+2025-04-04-11.43.54.672 INFO 0756 APPLICATION: Job 4611 resource usage within expected parameters
+2025-04-04-11.43.56.730 INFO 0562 TEMPERATURE: Thermal throttling activated on node 0562
+2025-04-04-11.43.59.200 INFO 0043 SCHEDULER: Job 8610 scheduled on nodes 0107-0117
+2025-04-04-11.44.03.965 INFO 0728 SCHEDULER: Resource availability updated: 573 CPUs, 8318 GB memory
+2025-04-04-11.44.06.539 INFO 0445 KERNEL: Kernel panic on node 0445, process 13881 terminated
+2025-04-04-11.44.07.659 INFO 0674 TEMPERATURE: Thermal throttling activated on node 0674
+2025-04-04-11.44.07.942 FATAL 0919 PROCESSOR: CPU idle at 4% on node 0919
+2025-04-04-11.44.08.779 WARNING 0638 SCHEDULER: Resource allocation failed for job 9421
+2025-04-04-11.44.11.158 ERROR 0290 MEMORY: DIMM DIMM2 scheduled for replacement on node 0290
+2025-04-04-11.44.11.966 INFO 0277 KERNEL: Kernel update completed successfully on node 0277
+2025-04-04-11.44.15.229 INFO 0767 NETWORK: TCP connection timeout on port 24065
+2025-04-04-11.44.19.351 INFO 0290 MEMORY: Memory diagnostics completed on node 0290, DIMM replaced, node back online
+2025-04-04-11.44.24.159 ERROR 0279 KERNEL: System performance metrics collected on node 0279
+2025-04-04-11.44.27.282 INFO 0284 PROCESSOR: Processor completed 7585670 cycles
+2025-04-04-11.44.27.890 INFO 0673 TEMPERATURE: Temperature critical at 80°C in rack R02
+2025-04-04-11.44.29.654 WARNING 0542 SCHEDULER: Resource availability updated: 647 CPUs, 5251 GB memory
+2025-04-04-11.44.30.940 INFO 0799 FILESYSTEM: Filesystem /scratch remounted read-only due to errors
+2025-04-04-11.44.31.126 INFO 0101 IO: Read timeout on device /dev/sda
+2025-04-04-11.44.31.981 INFO 0391 TEMPERATURE: HVAC system error code E569
+2025-04-04-11.44.34.099 INFO 0991 NETWORK: TCP connection timeout on port 64782
+2025-04-04-11.44.37.246 INFO 0702 APPLICATION: Performance degradation detected in job 3562
+2025-04-04-11.44.42.237 INFO 0862 POWER: UPS activated due to power instability
+2025-04-04-11.44.42.319 INFO 0041 KERNEL: Kernel panic on node 0041, process 5777 terminated
+2025-04-04-11.44.45.411 INFO 0470 POWER: UPS activated due to power instability
+2025-04-04-11.44.46.894 FATAL 0380 POWER: UPS activated due to power instability
+2025-04-04-11.44.50.499 INFO 0721 FILESYSTEM: Filesystem /home mounted on node 0721
+2025-04-04-11.44.51.500 INFO 0158 TEMPERATURE: Temperature normalized at 63°C
+2025-04-04-11.44.53.561 WARNING 0037 APPLICATION: Application vasp started successfully on node 0037
+2025-04-04-11.44.57.352 INFO 0124 SCHEDULER: Job 1687 completed in 22260 seconds
+2025-04-04-11.44.59.413 INFO 0353 PROCESSOR: CPU temperature at 69°C on node 0353
+2025-04-04-11.45.00.433 INFO 0828 APPLICATION: Application linpack started successfully on node 0828
+2025-04-04-11.45.01.304 FATAL 0938 KERNEL: Memory allocation failed at address 0xb147012b
+2025-04-04-11.45.03.487 INFO 0179 IO: Read timeout on device /dev/sdg
+2025-04-04-11.45.08.011 FATAL 0932 NETWORK: Network throughput dropped to 612 MB/s
+2025-04-04-11.45.12.047 INFO 0828 POWER: Entering power saving mode on node 0828
+2025-04-04-11.45.13.302 WARNING 0780 IO: I/O scheduler switched to noop on node 0780
+2025-04-04-11.45.15.630 WARNING 0264 TEMPERATURE: Cooling system operating normally on node 0264
+2025-04-04-11.45.18.017 INFO 0951 IO: I/O scheduler switched to cfq on node 0951
+2025-04-04-11.45.21.197 INFO 0629 KERNEL: Kernel panic on node 0629, process 11608 terminated
+2025-04-04-11.45.26.062 WARNING 0964 APPLICATION: Checkpoint created for job 7983 at 2025-04-04-11.45.25.325
+2025-04-04-11.45.28.326 FATAL 0475 POWER: Power supply status normal on rack R05
+2025-04-04-11.45.28.558 ERROR 0358 FILESYSTEM: Filesystem /scratch remounted read-only due to errors
+2025-04-04-11.45.29.057 INFO 0563 NETWORK: Link flapping detected on interface eth2
+2025-04-04-11.45.30.119 INFO 0021 FILESYSTEM: Filesystem /var defragmentation completed
+2025-04-04-11.45.30.265 INFO 0662 POWER: Voltage fluctuation detected on rail 12V
+2025-04-04-11.45.35.192 WARNING 0646 MEMORY: Swap usage at 82% on node 0646
+2025-04-04-11.45.38.812 INFO 0282 MEMORY: Out of memory error, killed process 27409
+2025-04-04-11.45.41.969 INFO 0295 PROCESSOR: CPU idle at 21% on node 0295
+2025-04-04-11.45.45.820 ERROR 0522 SCHEDULER: Job 5257 failed with exit code 183
+2025-04-04-11.45.50.696 ERROR 0751 APPLICATION: Application mpi_app requested 50 GB memory
+2025-04-04-11.45.54.979 ERROR 0553 PROCESSOR: CPU temperature at 70°C on node 0553
+2025-04-04-11.45.59.770 INFO 0858 PROCESSOR: CPU utilization at 95% on node 0858
+2025-04-04-11.46.02.313 INFO 0299 SCHEDULER: Job 1590 completed in 17903 seconds
+2025-04-04-11.46.04.111 ERROR 0640 APPLICATION: Job 3688 resource usage within expected parameters
+2025-04-04-11.46.08.615 INFO 0610 KERNEL: System call open failed with error 102
+2025-04-04-11.46.13.400 INFO 0487 TEMPERATURE: HVAC system error code E791
+2025-04-04-11.46.13.914 INFO 0262 FILESYSTEM: Routine filesystem check passed on /usr
+2025-04-04-11.46.14.800 INFO 0718 FILESYSTEM: Routine filesystem check passed on /tmp
+2025-04-04-11.46.18.612 INFO 0208 TEMPERATURE: Cooling system operating normally on node 0208
+2025-04-04-11.46.19.485 INFO 0416 NETWORK: Network throughput dropped to 561 MB/s
+2025-04-04-11.46.20.301 INFO 0067 POWER: Voltage fluctuation detected on rail 5V
+2025-04-04-11.46.21.425 INFO 0213 MEMORY: Memory test passed on node 0213
+2025-04-04-11.46.24.326 INFO 0417 APPLICATION: Application vasp started successfully on node 0417
+2025-04-04-11.46.26.806 INFO 0927 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-11.46.27.282 ERROR 0533 NETWORK: Connectivity verified between node 0533 and 0905
+2025-04-04-11.46.30.690 INFO 0665 PROCESSOR: Instruction cache error on core 14
+2025-04-04-11.46.33.483 INFO 0790 SCHEDULER: Job 3955 completed in 60240 seconds
+2025-04-04-11.46.36.816 INFO 0957 PROCESSOR: CPU idle at 27% on node 0957
+2025-04-04-11.46.39.597 INFO 0541 FILESYSTEM: File corruption detected at /path/to/file_363.dat
+2025-04-04-11.46.42.535 INFO 0273 MEMORY: Memory page fault at address 0x52fb867d
+2025-04-04-11.46.46.250 INFO 0890 KERNEL: Kernel update completed successfully on node 0890
+2025-04-04-11.46.47.178 INFO 0846 KERNEL: Process 27575 started with priority 92
+2025-04-04-11.46.47.974 INFO 0838 TEMPERATURE: Cooling system operating normally on node 0838
+2025-04-04-11.46.49.827 INFO 0459 IO: Write error on file /path/to/file_2.dat
+2025-04-04-11.46.52.220 INFO 0854 KERNEL: Task scheduler optimized on node 0854
+2025-04-04-11.46.54.675 INFO 0231 TEMPERATURE: Cooling system operating normally on node 0231
+2025-04-04-11.46.54.779 INFO 0326 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-11.46.59.526 INFO 0672 KERNEL: Kernel update completed successfully on node 0672
+2025-04-04-11.47.01.464 INFO 0061 SCHEDULER: Job 6201 failed with exit code 154
+2025-04-04-11.47.03.474 WARNING 0419 APPLICATION: MPI communication timeout in job 2042
+2025-04-04-11.47.06.026 ERROR 0893 APPLICATION: Performance degradation detected in job 9253
+2025-04-04-11.47.07.390 INFO 0944 NETWORK: Link flapping detected on interface eth3
+2025-04-04-11.47.08.915 INFO 0138 MEMORY: Memory leak detected in process 24869
+2025-04-04-11.47.09.346 INFO 1006 POWER: Power consumption within normal parameters
+2025-04-04-11.47.10.974 INFO 0575 TEMPERATURE: Temperature stable at 66°C in rack R07
+2025-04-04-11.47.14.659 FATAL 0363 TEMPERATURE: Cooling system operating normally on node 0363
+2025-04-04-11.47.17.396 INFO 0841 APPLICATION: Application gromacs requested 101 GB memory
+2025-04-04-11.47.22.347 INFO 0278 FILESYSTEM: Filesystem /usr remounted read-only due to errors
+2025-04-04-11.47.23.164 FATAL 0034 PROCESSOR: Processor completed 2900093 cycles
+2025-04-04-11.47.26.415 INFO 0567 PROCESSOR: CPU utilization at 10% on node 0567
+2025-04-04-11.47.29.529 INFO 0917 POWER: Entering power saving mode on node 0917
+2025-04-04-11.47.30.704 INFO 1023 NETWORK: Connectivity verified between node 1023 and 0098
+2025-04-04-11.47.31.906 INFO 0411 PROCESSOR: CPU temperature at 58°C on node 0411
+2025-04-04-11.47.32.057 ERROR 0456 APPLICATION: Application hpcg started successfully on node 0456
+2025-04-04-11.47.32.919 FATAL 0576 TEMPERATURE: Temperature critical at 26°C in rack R15
+2025-04-04-11.47.33.612 WARNING 0384 APPLICATION: Application gromacs crashed with signal SIGABRT
+2025-04-04-11.47.34.211 INFO 0989 IO: I/O scheduler switched to noop on node 0989
+2025-04-04-11.47.36.767 WARNING 0289 SCHEDULER: Job 6047 scheduled on nodes 0081-0087
+2025-04-04-11.47.37.307 INFO 0391 KERNEL: Kernel module lustre loaded successfully
+2025-04-04-11.47.40.149 INFO 0195 APPLICATION: Checkpoint created for job 6294 at 2025-04-04-11.47.37.460
+2025-04-04-11.47.42.080 INFO 0947 IO: Device /dev/sdh read speed: 246 MB/s
+2025-04-04-11.47.43.698 INFO 0011 IO: Read timeout on device /dev/sda
+2025-04-04-11.47.47.779 WARNING 0289 TEMPERATURE: Cooling system operating normally on node 0289
+2025-04-04-11.47.49.851 FATAL 0769 FILESYSTEM: Quota usage at 46% on filesystem /usr
+2025-04-04-11.47.52.129 INFO 0458 IO: Disk /dev/sdb full on node 0458
+2025-04-04-11.47.53.418 INFO 0352 POWER: Power consumption within normal parameters
+2025-04-04-11.47.56.911 INFO 0018 APPLICATION: Application namd started successfully on node 0018
+2025-04-04-11.47.58.960 INFO 0498 FILESYSTEM: File corruption detected at /path/to/file_816.dat
+2025-04-04-11.48.03.292 INFO 0760 SCHEDULER: Scheduler load balanced across 26 nodes
+2025-04-04-11.48.04.734 INFO 0823 POWER: Power consumption at 178 watts
+2025-04-04-11.48.06.778 INFO 0214 IO: Device /dev/sdd read speed: 136 MB/s
+2025-04-04-11.48.11.399 WARNING 0313 PROCESSOR: Core 27 running optimally on node 0313
+2025-04-04-11.48.12.557 ERROR 0208 KERNEL: System call fork failed with error 163
+2025-04-04-11.48.14.676 INFO 0831 APPLICATION: Application mpi_app started successfully on node 0831
+2025-04-04-11.48.19.497 INFO 0829 NETWORK: Network throughput dropped to 360 MB/s
+2025-04-04-11.48.21.313 INFO 0534 TEMPERATURE: Temperature critical at 50°C in rack R08
+2025-04-04-11.48.22.897 INFO 0152 FILESYSTEM: Quota usage at 28% on filesystem /scratch
+2025-04-04-11.48.27.132 INFO 0552 TEMPERATURE: Cooling system operating normally on node 0552
+2025-04-04-11.48.29.673 INFO 0735 SCHEDULER: Job 2131 scheduled on nodes 0588-0592
+2025-04-04-11.48.31.616 INFO 0569 TEMPERATURE: Cooling system operating normally on node 0569
+2025-04-04-11.48.32.198 WARNING 0278 POWER: Power supply PSU4 failed on rack R03
+2025-04-04-11.48.36.892 INFO 0007 SCHEDULER: Job 8794 scheduled on nodes 0730-0740
+2025-04-04-11.48.39.336 INFO 0654 POWER: Power supply status normal on rack R16
+2025-04-04-11.48.42.715 WARNING 0945 IO: I/O wait time increased to 153 ms
+2025-04-04-11.48.44.779 INFO 0812 FILESYSTEM: Journal commit failure on /var
+2025-04-04-11.48.46.592 ERROR 0509 IO: Device /dev/sde read speed: 236 MB/s
+2025-04-04-11.48.46.764 INFO 0043 POWER: Power supply status normal on rack R15
+2025-04-04-11.48.49.516 WARNING 0714 TEMPERATURE: Cooling fan FAN6 failed in node 0714
+2025-04-04-11.48.50.445 INFO 0205 MEMORY: Out of memory error, killed process 4782
+2025-04-04-11.48.54.437 ERROR 0556 POWER: Power consumption within normal parameters
+2025-04-04-11.49.00.233 INFO 0578 APPLICATION: Checkpoint created for job 6003 at 2025-04-04-11.48.57.513
+2025-04-04-11.49.00.376 FATAL 0470 IO: I/O wait time increased to 291 ms
+2025-04-04-11.49.03.470 INFO 1020 POWER: Voltage fluctuation detected on rail 3.3V
+2025-04-04-11.49.05.031 INFO 0093 POWER: Power supply PSU4 failed on rack R01
+2025-04-04-11.49.08.382 INFO 0100 PROCESSOR: Instruction cache error on core 31
+2025-04-04-11.49.12.133 ERROR 0493 FILESYSTEM: Inode table overflow on /scratch
+2025-04-04-11.49.14.528 ERROR 0796 APPLICATION: Job 9693 resource usage within expected parameters
+2025-04-04-11.49.14.664 INFO 0152 KERNEL: System call write failed with error 93
+2025-04-04-11.49.14.771 INFO 0472 MEMORY: Memory check completed: PARTIAL
+2025-04-04-11.49.18.690 WARNING 0291 APPLICATION: Performance degradation detected in job 6308
+2025-04-04-11.49.22.232 ERROR 0601 TEMPERATURE: Cooling fan FAN3 failed in node 0601
+2025-04-04-11.49.22.474 INFO 0590 FILESYSTEM: Filesystem /home mounted on node 0590
+2025-04-04-11.49.23.690 INFO 0687 TEMPERATURE: Temperature critical at 27°C in rack R06
+2025-04-04-11.49.26.066 INFO 0606 TEMPERATURE: Thermal throttling activated on node 0606
+2025-04-04-11.49.29.131 INFO 0845 KERNEL: Kernel panic on node 0845, process 11751 terminated
+2025-04-04-11.49.33.932 INFO 0503 PROCESSOR: Core 8 running optimally on node 0503
+2025-04-04-11.49.34.842 ERROR 0291 KERNEL: System performance metrics collected on node 0291
+2025-04-04-11.49.39.796 ERROR 0437 FILESYSTEM: Filesystem /scratch corruption detected on node 0437, remounting read-only
+2025-04-04-11.49.40.416 ERROR 0064 FILESYSTEM: Filesystem /scratch corruption detected on node 0064, remounting read-only
+2025-04-04-11.49.42.653 ERROR 0803 FILESYSTEM: Filesystem /scratch corruption detected on node 0803, remounting read-only
+2025-04-04-11.49.44.956 ERROR 0614 FILESYSTEM: Filesystem /scratch corruption detected on node 0614, remounting read-only
+2025-04-04-11.49.48.139 ERROR 0961 FILESYSTEM: Filesystem /scratch corruption detected on node 0961, remounting read-only
+2025-04-04-11.49.48.162 ERROR 0352 FILESYSTEM: Filesystem /scratch corruption detected on node 0352, remounting read-only
+2025-04-04-11.49.49.049 ERROR 0210 FILESYSTEM: Filesystem /scratch corruption detected on node 0210, remounting read-only
+2025-04-04-11.49.50.129 ERROR 0877 FILESYSTEM: Filesystem /scratch corruption detected on node 0877, remounting read-only
+2025-04-04-11.49.50.306 ERROR 0370 FILESYSTEM: Filesystem /scratch corruption detected on node 0370, remounting read-only
+2025-04-04-11.49.55.248 ERROR 0503 FILESYSTEM: Filesystem /scratch corruption detected on node 0503, remounting read-only
+2025-04-04-11.49.58.333 ERROR 0309 FILESYSTEM: Filesystem /scratch corruption detected on node 0309, remounting read-only
+2025-04-04-11.50.01.654 ERROR 0437 FILESYSTEM: I/O errors continue on device /dev/sde on node 0437
+2025-04-04-11.50.03.479 INFO 0899 POWER: Power consumption within normal parameters
+2025-04-04-11.50.07.737 INFO 0551 APPLICATION: Application metrics collected for gromacs
+2025-04-04-11.50.12.371 ERROR 0210 FILESYSTEM: I/O errors continue on device /dev/sdb on node 0210
+2025-04-04-11.50.17.266 ERROR 0614 FILESYSTEM: I/O errors continue on device /dev/sda on node 0614
+2025-04-04-11.50.18.794 INFO 0298 NETWORK: Network configuration updated on node 0298
+2025-04-04-11.50.19.468 INFO 0437 FILESYSTEM: Filesystem check completed successfully on node 0437, remounting read-write
+2025-04-04-11.50.19.996 INFO 0064 FILESYSTEM: Filesystem check completed successfully on node 0064, remounting read-write
+2025-04-04-11.50.21.719 INFO 0803 FILESYSTEM: Filesystem check completed successfully on node 0803, remounting read-write
+2025-04-04-11.50.25.454 INFO 0614 FILESYSTEM: Filesystem check completed successfully on node 0614, remounting read-write
+2025-04-04-11.50.27.596 INFO 0961 FILESYSTEM: Filesystem check completed successfully on node 0961, remounting read-write
+2025-04-04-11.50.30.029 INFO 0352 FILESYSTEM: Filesystem check completed successfully on node 0352, remounting read-write
+2025-04-04-11.50.32.271 INFO 0210 FILESYSTEM: Filesystem check completed successfully on node 0210, remounting read-write
+2025-04-04-11.50.33.174 INFO 0877 FILESYSTEM: Filesystem check completed successfully on node 0877, remounting read-write
+2025-04-04-11.50.33.578 INFO 0370 FILESYSTEM: Filesystem check completed successfully on node 0370, remounting read-write
+2025-04-04-11.50.36.005 INFO 0503 FILESYSTEM: Filesystem check completed successfully on node 0503, remounting read-write
+2025-04-04-11.50.38.048 INFO 0309 FILESYSTEM: Filesystem check completed successfully on node 0309, remounting read-write
+2025-04-04-11.50.41.110 WARNING 0463 TEMPERATURE: High temperature warning at 85°C on node 0463
+2025-04-04-11.50.43.552 WARNING 0464 TEMPERATURE: High temperature warning at 76°C on node 0464
+2025-04-04-11.50.43.697 WARNING 0465 TEMPERATURE: High temperature warning at 79°C on node 0465
+2025-04-04-11.50.45.469 WARNING 0466 TEMPERATURE: High temperature warning at 82°C on node 0466
+2025-04-04-11.50.49.875 WARNING 0467 TEMPERATURE: High temperature warning at 85°C on node 0467
+2025-04-04-11.50.51.611 ERROR 0468 TEMPERATURE: Temperature threshold exceeded at 86°C on node 0468, throttling enabled
+2025-04-04-11.50.52.036 WARNING 0469 TEMPERATURE: High temperature warning at 81°C on node 0469
+2025-04-04-11.50.53.054 WARNING 0470 TEMPERATURE: High temperature warning at 77°C on node 0470
+2025-04-04-11.50.58.035 FATAL 0471 TEMPERATURE: CRITICAL: Temperature at 93°C on node 0471, emergency shutdown initiated
+2025-04-04-11.50.59.967 WARNING 0472 TEMPERATURE: High temperature warning at 77°C on node 0472
+2025-04-04-11.51.01.349 ERROR 0472 TEMPERATURE: Temperature still critical at 83°C on node 0472
+2025-04-04-11.51.02.451 INFO 0253 SCHEDULER: Resource availability updated: 95 CPUs, 3403 GB memory
+2025-04-04-11.51.05.381 INFO 0560 APPLICATION: MPI communication timeout in job 5245
+2025-04-04-11.51.05.633 ERROR 0466 TEMPERATURE: Unable to reduce temperature below 91°C on node 0466
+2025-04-04-11.51.07.890 INFO 0009 PROCESSOR: Core 4 running optimally on node 0009
+2025-04-04-11.51.08.880 INFO 0895 MEMORY: Memory check completed: WARNING
+2025-04-04-11.51.11.765 ERROR 0466 TEMPERATURE: Unable to reduce temperature below 88°C on node 0466
+2025-04-04-11.51.13.343 ERROR 0337 APPLICATION: Application namd requested 61 GB memory
+2025-04-04-11.51.18.342 ERROR 0468 TEMPERATURE: Cooling system failure persists on node 0468, temp 94°C
+2025-04-04-11.51.21.570 INFO 0713 KERNEL: Kernel module nfs loaded successfully
+2025-04-04-11.51.25.130 INFO 0407 TEMPERATURE: Cooling system operating normally on node 0407
+2025-04-04-11.51.27.217 ERROR 0471 TEMPERATURE: Temperature still critical at 84°C on node 0471
+2025-04-04-11.51.31.463 ERROR 0016 SCHEDULER: Job 2517 completed in 32742 seconds
+2025-04-04-11.51.31.627 INFO 0708 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-11.51.33.985 ERROR 0469 TEMPERATURE: Cooling system failure persists on node 0469, temp 92°C
+2025-04-04-11.51.37.465 INFO 0338 MEMORY: Swap usage at 93% on node 0338
+2025-04-04-11.51.40.578 ERROR 0470 TEMPERATURE: Cooling system failure persists on node 0470, temp 76°C
+2025-04-04-11.51.44.194 ERROR 0466 TEMPERATURE: Cooling system failure persists on node 0466, temp 81°C
+2025-04-04-11.51.47.798 INFO 0910 NETWORK: Network bandwidth test completed on node 0910: 851 MB/s
+2025-04-04-11.51.49.324 WARNING 0146 POWER: Power consumption at 1439 watts
+2025-04-04-11.51.52.969 INFO 0825 PROCESSOR: Processor completed 1861435 cycles
+2025-04-04-11.51.54.779 INFO 0625 FILESYSTEM: Filesystem /scratch mounted on node 0625
+2025-04-04-11.51.59.025 INFO 0102 POWER: Power consumption within normal parameters
+2025-04-04-11.52.03.983 INFO 0595 NETWORK: Link flapping detected on interface eth2
+2025-04-04-11.52.04.076 INFO 0463 TEMPERATURE: Temperature normalized at 56°C on node 0463, resuming normal operation
+2025-04-04-11.52.08.072 INFO 0464 TEMPERATURE: Temperature normalized at 61°C on node 0464, resuming normal operation
+2025-04-04-11.52.10.758 INFO 0465 TEMPERATURE: Temperature normalized at 46°C on node 0465, resuming normal operation
+2025-04-04-11.52.14.984 INFO 0466 TEMPERATURE: Temperature normalized at 45°C on node 0466, resuming normal operation
+2025-04-04-11.52.17.962 INFO 0467 TEMPERATURE: Temperature normalized at 49°C on node 0467, resuming normal operation
+2025-04-04-11.52.22.362 INFO 0468 TEMPERATURE: Temperature normalized at 54°C on node 0468, resuming normal operation
+2025-04-04-11.52.25.887 INFO 0469 TEMPERATURE: Temperature normalized at 51°C on node 0469, resuming normal operation
+2025-04-04-11.52.27.542 INFO 0470 TEMPERATURE: Temperature normalized at 45°C on node 0470, resuming normal operation
+2025-04-04-11.52.29.704 INFO 0471 TEMPERATURE: Temperature normalized at 56°C on node 0471, resuming normal operation
+2025-04-04-11.52.30.267 INFO 0472 TEMPERATURE: Temperature normalized at 64°C on node 0472, resuming normal operation
+2025-04-04-11.52.30.841 ERROR 0389 NETWORK: Network connectivity lost on node 0389, isolating from cluster
+2025-04-04-11.52.30.903 ERROR 0390 NETWORK: Network connectivity lost on node 0390, isolating from cluster
+2025-04-04-11.52.35.302 ERROR 0391 NETWORK: Network connectivity lost on node 0391, isolating from cluster
+2025-04-04-11.52.35.665 ERROR 0392 NETWORK: Network connectivity lost on node 0392, isolating from cluster
+2025-04-04-11.52.36.489 ERROR 0393 NETWORK: Network connectivity lost on node 0393, isolating from cluster
+2025-04-04-11.52.41.167 ERROR 0394 NETWORK: Network connectivity lost on node 0394, isolating from cluster
+2025-04-04-11.52.41.808 ERROR 0395 NETWORK: Network connectivity lost on node 0395, isolating from cluster
+2025-04-04-11.52.44.720 ERROR 0396 NETWORK: Network connectivity lost on node 0396, isolating from cluster
+2025-04-04-11.52.48.258 ERROR 0397 NETWORK: Network connectivity lost on node 0397, isolating from cluster
+2025-04-04-11.52.52.556 ERROR 0398 NETWORK: Network connectivity lost on node 0398, isolating from cluster
+2025-04-04-11.52.54.760 ERROR 0399 NETWORK: Network connectivity lost on node 0399, isolating from cluster
+2025-04-04-11.52.59.197 ERROR 0400 NETWORK: Network connectivity lost on node 0400, isolating from cluster
+2025-04-04-11.53.02.943 ERROR 0401 NETWORK: Network connectivity lost on node 0401, isolating from cluster
+2025-04-04-11.53.03.178 ERROR 0402 NETWORK: Network connectivity lost on node 0402, isolating from cluster
+2025-04-04-11.53.08.003 ERROR 0403 NETWORK: Network connectivity lost on node 0403, isolating from cluster
+2025-04-04-11.53.09.196 ERROR 0404 NETWORK: Network connectivity lost on node 0404, isolating from cluster
+2025-04-04-11.53.14.120 ERROR 0405 NETWORK: Network connectivity lost on node 0405, isolating from cluster
+2025-04-04-11.53.16.240 ERROR 0406 NETWORK: Network connectivity lost on node 0406, isolating from cluster
+2025-04-04-11.53.18.444 ERROR 0407 NETWORK: Network connectivity lost on node 0407, isolating from cluster
+2025-04-04-11.53.19.191 ERROR 0408 NETWORK: Network connectivity lost on node 0408, isolating from cluster
+2025-04-04-11.53.22.417 ERROR 0409 NETWORK: Network connectivity lost on node 0409, isolating from cluster
+2025-04-04-11.53.24.525 ERROR 0410 NETWORK: Network connectivity lost on node 0410, isolating from cluster
+2025-04-04-11.53.25.209 ERROR 0411 NETWORK: Network connectivity lost on node 0411, isolating from cluster
+2025-04-04-11.53.26.115 ERROR 0412 NETWORK: Network connectivity lost on node 0412, isolating from cluster
+2025-04-04-11.53.29.316 ERROR 0413 NETWORK: Network connectivity lost on node 0413, isolating from cluster
+2025-04-04-11.53.31.014 ERROR 0414 NETWORK: Network connectivity lost on node 0414, isolating from cluster
+2025-04-04-11.53.35.459 ERROR 0415 NETWORK: Network connectivity lost on node 0415, isolating from cluster
+2025-04-04-11.53.37.757 ERROR 0416 NETWORK: Network connectivity lost on node 0416, isolating from cluster
+2025-04-04-11.53.39.866 ERROR 0417 NETWORK: Network connectivity lost on node 0417, isolating from cluster
+2025-04-04-11.53.42.529 ERROR 0418 NETWORK: Network connectivity lost on node 0418, isolating from cluster
+2025-04-04-11.53.45.518 ERROR 0419 NETWORK: Network connectivity lost on node 0419, isolating from cluster
+2025-04-04-11.53.49.391 ERROR 0420 NETWORK: Network connectivity lost on node 0420, isolating from cluster
+2025-04-04-11.53.53.038 ERROR 0421 NETWORK: Network connectivity lost on node 0421, isolating from cluster
+2025-04-04-11.53.57.785 ERROR 0422 NETWORK: Network connectivity lost on node 0422, isolating from cluster
+2025-04-04-11.54.01.371 ERROR 0423 NETWORK: Network connectivity lost on node 0423, isolating from cluster
+2025-04-04-11.54.03.485 ERROR 0424 NETWORK: Network connectivity lost on node 0424, isolating from cluster
+2025-04-04-11.54.07.192 ERROR 0425 NETWORK: Network connectivity lost on node 0425, isolating from cluster
+2025-04-04-11.54.08.033 ERROR 0426 NETWORK: Network connectivity lost on node 0426, isolating from cluster
+2025-04-04-11.54.10.114 ERROR 0427 NETWORK: Network connectivity lost on node 0427, isolating from cluster
+2025-04-04-11.54.14.075 ERROR 0428 NETWORK: Network connectivity lost on node 0428, isolating from cluster
+2025-04-04-11.54.18.501 ERROR 0429 NETWORK: Network connectivity lost on node 0429, isolating from cluster
+2025-04-04-11.54.23.121 ERROR 0430 NETWORK: Network connectivity lost on node 0430, isolating from cluster
+2025-04-04-11.54.25.094 ERROR 0431 NETWORK: Network connectivity lost on node 0431, isolating from cluster
+2025-04-04-11.54.27.653 ERROR 0432 NETWORK: Network connectivity lost on node 0432, isolating from cluster
+2025-04-04-11.54.28.659 ERROR 0433 NETWORK: Network connectivity lost on node 0433, isolating from cluster
+2025-04-04-11.54.33.561 ERROR 0434 NETWORK: Network connectivity lost on node 0434, isolating from cluster
+2025-04-04-11.54.36.063 ERROR 0435 NETWORK: Network connectivity lost on node 0435, isolating from cluster
+2025-04-04-11.54.39.371 ERROR 0436 NETWORK: Network connectivity lost on node 0436, isolating from cluster
+2025-04-04-11.54.43.191 ERROR 0437 NETWORK: Network connectivity lost on node 0437, isolating from cluster
+2025-04-04-11.54.47.387 ERROR 0438 NETWORK: Network connectivity lost on node 0438, isolating from cluster
+2025-04-04-11.54.51.668 ERROR 0439 NETWORK: Network connectivity lost on node 0439, isolating from cluster
+2025-04-04-11.54.53.015 ERROR 0440 NETWORK: Network connectivity lost on node 0440, isolating from cluster
+2025-04-04-11.54.55.737 ERROR 0441 NETWORK: Network connectivity lost on node 0441, isolating from cluster
+2025-04-04-11.54.55.970 ERROR 0442 NETWORK: Network connectivity lost on node 0442, isolating from cluster
+2025-04-04-11.55.00.149 ERROR 0443 NETWORK: Network connectivity lost on node 0443, isolating from cluster
+2025-04-04-11.55.04.479 ERROR 0444 NETWORK: Network connectivity lost on node 0444, isolating from cluster
+2025-04-04-11.55.07.935 ERROR 0445 NETWORK: Network connectivity lost on node 0445, isolating from cluster
+2025-04-04-11.55.10.971 ERROR 0446 NETWORK: Network connectivity lost on node 0446, isolating from cluster
+2025-04-04-11.55.15.939 ERROR 0447 NETWORK: Network connectivity lost on node 0447, isolating from cluster
+2025-04-04-11.55.15.985 ERROR 0448 NETWORK: Network connectivity lost on node 0448, isolating from cluster
+2025-04-04-11.55.16.140 ERROR 0449 NETWORK: Network connectivity lost on node 0449, isolating from cluster
+2025-04-04-11.55.19.423 ERROR 0450 NETWORK: Network connectivity lost on node 0450, isolating from cluster
+2025-04-04-11.55.19.879 ERROR 0451 NETWORK: Network connectivity lost on node 0451, isolating from cluster
+2025-04-04-11.55.20.621 ERROR 0452 NETWORK: Network connectivity lost on node 0452, isolating from cluster
+2025-04-04-11.55.25.540 ERROR 0453 NETWORK: Network connectivity lost on node 0453, isolating from cluster
+2025-04-04-11.55.28.498 ERROR 0454 NETWORK: Network connectivity lost on node 0454, isolating from cluster
+2025-04-04-11.55.32.358 ERROR 0455 NETWORK: Network connectivity lost on node 0455, isolating from cluster
+2025-04-04-11.55.33.998 ERROR 0456 NETWORK: Network connectivity lost on node 0456, isolating from cluster
+2025-04-04-11.55.37.548 INFO 0057 TEMPERATURE: HVAC system error code E827
+2025-04-04-11.55.39.718 ERROR 0443 NETWORK: Failed to reestablish network connectivity on node 0443
+2025-04-04-11.55.39.824 INFO 0003 NETWORK: TCP connection timeout on port 49737
+2025-04-04-11.55.44.638 INFO 0389 NETWORK: Network connectivity restored on node 0389
+2025-04-04-11.55.49.342 INFO 0390 NETWORK: Network connectivity restored on node 0390
+2025-04-04-11.55.49.658 INFO 0391 NETWORK: Network connectivity restored on node 0391
+2025-04-04-11.55.52.321 INFO 0392 NETWORK: Network connectivity restored on node 0392
+2025-04-04-11.55.56.602 INFO 0393 NETWORK: Network connectivity restored on node 0393
+2025-04-04-11.55.58.031 INFO 0394 NETWORK: Network connectivity restored on node 0394
+2025-04-04-11.55.59.675 INFO 0395 NETWORK: Network connectivity restored on node 0395
+2025-04-04-11.56.02.658 INFO 0396 NETWORK: Network connectivity restored on node 0396
+2025-04-04-11.56.06.473 INFO 0397 NETWORK: Network connectivity restored on node 0397
+2025-04-04-11.56.10.587 INFO 0398 NETWORK: Network connectivity restored on node 0398
+2025-04-04-11.56.13.957 INFO 0399 NETWORK: Network connectivity restored on node 0399
+2025-04-04-11.56.16.698 INFO 0400 NETWORK: Network connectivity restored on node 0400
+2025-04-04-11.56.18.701 INFO 0401 NETWORK: Network connectivity restored on node 0401
+2025-04-04-11.56.22.295 INFO 0402 NETWORK: Network connectivity restored on node 0402
+2025-04-04-11.56.27.007 INFO 0403 NETWORK: Network connectivity restored on node 0403
+2025-04-04-11.56.27.929 INFO 0404 NETWORK: Network connectivity restored on node 0404
+2025-04-04-11.56.32.375 INFO 0405 NETWORK: Network connectivity restored on node 0405
+2025-04-04-11.56.34.334 INFO 0406 NETWORK: Network connectivity restored on node 0406
+2025-04-04-11.56.35.730 INFO 0407 NETWORK: Network connectivity restored on node 0407
+2025-04-04-11.56.38.908 INFO 0408 NETWORK: Network connectivity restored on node 0408
+2025-04-04-11.56.42.770 INFO 0409 NETWORK: Network connectivity restored on node 0409
+2025-04-04-11.56.44.096 INFO 0410 NETWORK: Network connectivity restored on node 0410
+2025-04-04-11.56.48.189 INFO 0411 NETWORK: Network connectivity restored on node 0411
+2025-04-04-11.56.48.881 INFO 0412 NETWORK: Network connectivity restored on node 0412
+2025-04-04-11.56.51.130 INFO 0413 NETWORK: Network connectivity restored on node 0413
+2025-04-04-11.56.53.645 INFO 0414 NETWORK: Network connectivity restored on node 0414
+2025-04-04-11.56.56.319 INFO 0415 NETWORK: Network connectivity restored on node 0415
+2025-04-04-11.56.58.601 INFO 0416 NETWORK: Network connectivity restored on node 0416
+2025-04-04-11.57.03.462 INFO 0417 NETWORK: Network connectivity restored on node 0417
+2025-04-04-11.57.06.283 INFO 0418 NETWORK: Network connectivity restored on node 0418
+2025-04-04-11.57.06.801 INFO 0419 NETWORK: Network connectivity restored on node 0419
+2025-04-04-11.57.07.451 INFO 0420 NETWORK: Network connectivity restored on node 0420
+2025-04-04-11.57.11.472 INFO 0421 NETWORK: Network connectivity restored on node 0421
+2025-04-04-11.57.11.937 INFO 0422 NETWORK: Network connectivity restored on node 0422
+2025-04-04-11.57.13.039 INFO 0423 NETWORK: Network connectivity restored on node 0423
+2025-04-04-11.57.17.050 INFO 0424 NETWORK: Network connectivity restored on node 0424
+2025-04-04-11.57.21.975 INFO 0425 NETWORK: Network connectivity restored on node 0425
+2025-04-04-11.57.23.170 INFO 0426 NETWORK: Network connectivity restored on node 0426
+2025-04-04-11.57.27.691 INFO 0427 NETWORK: Network connectivity restored on node 0427
+2025-04-04-11.57.29.762 INFO 0428 NETWORK: Network connectivity restored on node 0428
+2025-04-04-11.57.34.036 INFO 0429 NETWORK: Network connectivity restored on node 0429
+2025-04-04-11.57.36.274 INFO 0430 NETWORK: Network connectivity restored on node 0430
+2025-04-04-11.57.36.300 INFO 0431 NETWORK: Network connectivity restored on node 0431
+2025-04-04-11.57.37.788 INFO 0432 NETWORK: Network connectivity restored on node 0432
+2025-04-04-11.57.40.713 INFO 0433 NETWORK: Network connectivity restored on node 0433
+2025-04-04-11.57.41.390 INFO 0434 NETWORK: Network connectivity restored on node 0434
+2025-04-04-11.57.41.703 INFO 0435 NETWORK: Network connectivity restored on node 0435
+2025-04-04-11.57.42.907 INFO 0436 NETWORK: Network connectivity restored on node 0436
+2025-04-04-11.57.44.791 INFO 0437 NETWORK: Network connectivity restored on node 0437
+2025-04-04-11.57.45.610 INFO 0438 NETWORK: Network connectivity restored on node 0438
+2025-04-04-11.57.47.738 INFO 0439 NETWORK: Network connectivity restored on node 0439
+2025-04-04-11.57.52.306 INFO 0440 NETWORK: Network connectivity restored on node 0440
+2025-04-04-11.57.55.633 INFO 0441 NETWORK: Network connectivity restored on node 0441
+2025-04-04-11.57.58.850 INFO 0442 NETWORK: Network connectivity restored on node 0442
+2025-04-04-11.58.00.307 INFO 0443 NETWORK: Network connectivity restored on node 0443
+2025-04-04-11.58.04.388 INFO 0444 NETWORK: Network connectivity restored on node 0444
+2025-04-04-11.58.06.149 INFO 0445 NETWORK: Network connectivity restored on node 0445
+2025-04-04-11.58.08.190 INFO 0446 NETWORK: Network connectivity restored on node 0446
+2025-04-04-11.58.12.387 INFO 0447 NETWORK: Network connectivity restored on node 0447
+2025-04-04-11.58.17.367 INFO 0448 NETWORK: Network connectivity restored on node 0448
+2025-04-04-11.58.18.320 INFO 0449 NETWORK: Network connectivity restored on node 0449
+2025-04-04-11.58.22.833 INFO 0450 NETWORK: Network connectivity restored on node 0450
+2025-04-04-11.58.25.424 INFO 0451 NETWORK: Network connectivity restored on node 0451
+2025-04-04-11.58.28.793 INFO 0452 NETWORK: Network connectivity restored on node 0452
+2025-04-04-11.58.33.760 INFO 0453 NETWORK: Network connectivity restored on node 0453
+2025-04-04-11.58.36.220 INFO 0454 NETWORK: Network connectivity restored on node 0454
+2025-04-04-11.58.37.946 INFO 0455 NETWORK: Network connectivity restored on node 0455
+2025-04-04-11.58.40.582 INFO 0456 NETWORK: Network connectivity restored on node 0456
+2025-04-04-11.58.41.913 INFO 0540 TEMPERATURE: Temperature critical at 45°C in rack R01
+2025-04-04-11.58.45.427 INFO 0161 FILESYSTEM: Inode table overflow on /var
+2025-04-04-11.58.45.630 FATAL 0561 PROCESSOR: Core 10 running optimally on node 0561
+2025-04-04-11.58.45.632 INFO 0415 MEMORY: Memory allocation pool optimized
+2025-04-04-11.58.47.833 ERROR 0197 MEMORY: Memory leak detected in process 7761
+2025-04-04-11.58.51.383 INFO 0674 NETWORK: Network throughput dropped to 649 MB/s
+2025-04-04-11.58.54.811 INFO 0158 NETWORK: Packet loss detected between nodes 0158 and 0720
+2025-04-04-11.58.56.527 INFO 0614 NETWORK: Network interface eth0 down on node 0614
+2025-04-04-11.58.59.539 INFO 0220 SCHEDULER: Resource availability updated: 434 CPUs, 6024 GB memory
+2025-04-04-11.59.00.085 ERROR 0520 KERNEL: Task scheduler optimized on node 0520
+2025-04-04-11.59.05.056 INFO 0283 APPLICATION: MPI communication timeout in job 5478
+2025-04-04-11.59.06.832 INFO 0263 TEMPERATURE: Cooling system operating normally on node 0263
+2025-04-04-11.59.10.985 WARNING 0326 SCHEDULER: Job 6708 failed with exit code 10
+2025-04-04-11.59.11.195 ERROR 0025 MEMORY: Memory leak detected in process 23696
+2025-04-04-11.59.14.816 INFO 0371 TEMPERATURE: Thermal throttling activated on node 0371
+2025-04-04-11.59.15.518 INFO 0621 TEMPERATURE: HVAC system error code E354
+2025-04-04-11.59.19.535 INFO 0272 IO: I/O scheduler switched to noop on node 0272
+2025-04-04-11.59.22.411 INFO 1016 FILESYSTEM: Filesystem /usr remounted read-only due to errors
+2025-04-04-11.59.22.564 INFO 0129 PROCESSOR: CPU idle at 13% on node 0129
+2025-04-04-11.59.22.650 INFO 0736 MEMORY: Out of memory error, killed process 28303
+2025-04-04-11.59.27.325 INFO 0617 SCHEDULER: Resource allocation failed for job 5748
+2025-04-04-11.59.29.850 INFO 0366 PROCESSOR: Processor completed 3355925 cycles
+2025-04-04-11.59.31.427 INFO 0866 PROCESSOR: CPU temperature at 53°C on node 0866
+2025-04-04-11.59.34.071 INFO 0608 POWER: Entering power saving mode on node 0608
+2025-04-04-11.59.35.676 WARNING 0045 FILESYSTEM: Filesystem /home remounted read-only due to errors
+2025-04-04-11.59.37.045 INFO 0193 KERNEL: Kernel panic on node 0193, process 30475 terminated
+2025-04-04-11.59.38.207 FATAL 0064 POWER: Power supply failure on rack R02, nodes shutting down
+2025-04-04-11.59.38.766 ERROR 0064 POWER: Node 0064 shutting down due to power failure
+2025-04-04-11.59.39.726 ERROR 0065 POWER: Node 0065 shutting down due to power failure
+2025-04-04-11.59.44.126 ERROR 0066 POWER: Node 0066 shutting down due to power failure
+2025-04-04-11.59.47.238 ERROR 0067 POWER: Node 0067 shutting down due to power failure
+2025-04-04-11.59.48.933 ERROR 0068 POWER: Node 0068 shutting down due to power failure
+2025-04-04-11.59.51.127 ERROR 0069 POWER: Node 0069 shutting down due to power failure
+2025-04-04-11.59.51.171 ERROR 0070 POWER: Node 0070 shutting down due to power failure
+2025-04-04-11.59.53.584 ERROR 0071 POWER: Node 0071 shutting down due to power failure
+2025-04-04-11.59.55.772 ERROR 0072 POWER: Node 0072 shutting down due to power failure
+2025-04-04-11.59.55.939 ERROR 0073 POWER: Node 0073 shutting down due to power failure
+2025-04-04-11.59.59.015 ERROR 0074 POWER: Node 0074 shutting down due to power failure
+2025-04-04-12.00.03.824 ERROR 0075 POWER: Node 0075 shutting down due to power failure
+2025-04-04-12.00.07.982 ERROR 0076 POWER: Node 0076 shutting down due to power failure
+2025-04-04-12.00.10.336 ERROR 0077 POWER: Node 0077 shutting down due to power failure
+2025-04-04-12.00.15.140 ERROR 0078 POWER: Node 0078 shutting down due to power failure
+2025-04-04-12.00.18.454 ERROR 0079 POWER: Node 0079 shutting down due to power failure
+2025-04-04-12.00.19.833 ERROR 0080 POWER: Node 0080 shutting down due to power failure
+2025-04-04-12.00.20.991 ERROR 0081 POWER: Node 0081 shutting down due to power failure
+2025-04-04-12.00.25.678 ERROR 0082 POWER: Node 0082 shutting down due to power failure
+2025-04-04-12.00.30.179 ERROR 0083 POWER: Node 0083 shutting down due to power failure
+2025-04-04-12.00.32.745 ERROR 0084 POWER: Node 0084 shutting down due to power failure
+2025-04-04-12.00.35.995 ERROR 0085 POWER: Node 0085 shutting down due to power failure
+2025-04-04-12.00.39.107 ERROR 0086 POWER: Node 0086 shutting down due to power failure
+2025-04-04-12.00.40.920 ERROR 0087 POWER: Node 0087 shutting down due to power failure
+2025-04-04-12.00.43.763 ERROR 0088 POWER: Node 0088 shutting down due to power failure
+2025-04-04-12.00.45.981 ERROR 0089 POWER: Node 0089 shutting down due to power failure
+2025-04-04-12.00.48.562 ERROR 0090 POWER: Node 0090 shutting down due to power failure
+2025-04-04-12.00.50.522 ERROR 0091 POWER: Node 0091 shutting down due to power failure
+2025-04-04-12.00.54.962 ERROR 0092 POWER: Node 0092 shutting down due to power failure
+2025-04-04-12.00.59.192 ERROR 0093 POWER: Node 0093 shutting down due to power failure
+2025-04-04-12.00.59.654 ERROR 0094 POWER: Node 0094 shutting down due to power failure
+2025-04-04-12.01.04.518 ERROR 0095 POWER: Node 0095 shutting down due to power failure
+2025-04-04-12.01.04.778 INFO 0488 POWER: Power consumption at 1012 watts
+2025-04-04-12.01.05.806 INFO 0107 FILESYSTEM: Routine filesystem check passed on /tmp
+2025-04-04-12.01.08.912 WARNING 0247 APPLICATION: Application vasp requested 112 GB memory
+2025-04-04-12.01.10.022 WARNING 0339 TEMPERATURE: HVAC system error code E537
+2025-04-04-12.01.13.746 ERROR 0085 POWER: Power restoration delayed, ETA 10 minutes
+2025-04-04-12.01.18.687 INFO 0109 NETWORK: Network bandwidth test completed on node 0109: 719 MB/s
+2025-04-04-12.01.21.003 FATAL 0176 APPLICATION: Application vasp crashed with signal SIGABRT
+2025-04-04-12.01.25.882 INFO 0649 IO: I/O wait time increased to 60 ms
+2025-04-04-12.01.30.064 ERROR 0091 POWER: UPS battery at 76%, critical level
+2025-04-04-12.01.32.576 INFO 0003 APPLICATION: Job 7491 resource usage within expected parameters
+2025-04-04-12.01.33.496 INFO 0082 FILESYSTEM: Filesystem /scratch defragmentation completed
+2025-04-04-12.01.34.543 ERROR 0090 POWER: Power restoration delayed, ETA 27 minutes
+2025-04-04-12.01.36.558 INFO 0061 PROCESSOR: CPU utilization at 23% on node 0061
+2025-04-04-12.01.38.214 INFO 0186 KERNEL: Kernel panic on node 0186, process 12382 terminated
+2025-04-04-12.01.42.379 INFO 0717 POWER: Power consumption at 739 watts
+2025-04-04-12.01.47.105 ERROR 0092 POWER: Power supply PSU1 still offline on rack R02
+2025-04-04-12.01.48.024 WARNING 0688 MEMORY: Memory check completed: FAILURE
+2025-04-04-12.01.48.534 INFO 0945 NETWORK: Network interface eth0 down on node 0945
+2025-04-04-12.01.48.608 INFO 0264 IO: Disk performance test completed on node 0264
+2025-04-04-12.01.49.893 INFO 0359 KERNEL: Task scheduler optimized on node 0359
+2025-04-04-12.01.54.650 ERROR 0848 KERNEL: System performance metrics collected on node 0848
+2025-04-04-12.01.55.173 INFO 0551 APPLICATION: Application linpack crashed with signal SIGTERM
+2025-04-04-12.01.58.465 ERROR 0075 POWER: Power restoration delayed, ETA 8 minutes
+2025-04-04-12.02.03.013 INFO 0598 TEMPERATURE: Temperature critical at 63°C in rack R13
+2025-04-04-12.02.05.216 ERROR 0092 POWER: UPS battery at 47%, critical level
+2025-04-04-12.02.05.291 INFO 0567 PROCESSOR: Processor completed 9789704 cycles
+2025-04-04-12.02.08.456 ERROR 0089 POWER: Power restoration delayed, ETA 16 minutes
+2025-04-04-12.02.09.482 ERROR 0068 POWER: Power supply PSU1 still offline on rack R02
+2025-04-04-12.02.12.983 WARNING 0073 TEMPERATURE: Cooling fan FAN2 failed in node 0073
+2025-04-04-12.02.14.949 INFO 0422 POWER: Power consumption within normal parameters
+2025-04-04-12.02.17.957 ERROR 0079 POWER: UPS battery at 54%, critical level
+2025-04-04-12.02.20.167 INFO 0106 FILESYSTEM: Inode table overflow on /scratch
+2025-04-04-12.02.23.379 ERROR 0092 POWER: Power restoration delayed, ETA 13 minutes
+2025-04-04-12.02.25.555 INFO 0341 POWER: Entering power saving mode on node 0341
+2025-04-04-12.02.28.796 INFO 0562 APPLICATION: Application hpcg crashed with signal SIGKILL
+2025-04-04-12.02.31.430 INFO 0068 APPLICATION: Application namd requested 70 GB memory
+2025-04-04-12.02.32.384 WARNING 0055 APPLICATION: Performance degradation detected in job 1217
+2025-04-04-12.02.35.482 INFO 0318 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.02.39.293 INFO 0984 NETWORK: Connectivity verified between node 0984 and 0927
+2025-04-04-12.02.42.517 ERROR 0082 POWER: UPS battery at 53%, critical level
+2025-04-04-12.02.46.688 INFO 0909 TEMPERATURE: Cooling system operating normally on node 0909
+2025-04-04-12.02.50.147 INFO 0277 KERNEL: Kernel panic on node 0277, process 19203 terminated
+2025-04-04-12.02.53.614 INFO 0685 KERNEL: System performance metrics collected on node 0685
+2025-04-04-12.02.54.235 FATAL 0025 POWER: UPS activated due to power instability
+2025-04-04-12.02.59.009 ERROR 0069 POWER: UPS battery at 85%, critical level
+2025-04-04-12.03.03.254 INFO 0662 TEMPERATURE: Temperature stable at 52°C in rack R11
+2025-04-04-12.03.07.752 WARNING 0959 FILESYSTEM: Journal commit failure on /var
+2025-04-04-12.03.14.059 WARNING 0094 APPLICATION: Checkpoint created for job 2269 at 2025-04-04-12.03.10.684
+2025-04-04-12.03.15.692 INFO 0817 FILESYSTEM: File corruption detected at /path/to/file_327.dat
+2025-04-04-12.03.20.199 INFO 0153 APPLICATION: Performance degradation detected in job 2661
+2025-04-04-12.03.21.637 INFO 0169 KERNEL: Kernel update completed successfully on node 0169
+2025-04-04-12.03.26.423 INFO 0793 KERNEL: Kernel panic on node 0793, process 30295 terminated
+2025-04-04-12.03.29.040 INFO 0519 NETWORK: Link flapping detected on interface eth3
+2025-04-04-12.03.31.884 INFO 0386 APPLICATION: Checkpoint created for job 6700 at 2025-04-04-12.03.31.457
+2025-04-04-12.03.32.527 INFO 0049 FILESYSTEM: Routine filesystem check passed on /home
+2025-04-04-12.03.36.638 INFO 0447 SCHEDULER: Resource allocation failed for job 5620
+2025-04-04-12.03.41.245 ERROR 0078 POWER: Power restoration delayed, ETA 26 minutes
+2025-04-04-12.03.44.785 ERROR 0070 POWER: UPS battery at 70%, critical level
+2025-04-04-12.03.48.787 ERROR 0149 SCHEDULER: Resource availability updated: 869 CPUs, 4816 GB memory
+2025-04-04-12.03.49.081 INFO 0064 POWER: Power restored to rack, initiating node startup sequence
+2025-04-04-12.03.50.842 INFO 0064 POWER: Node 0064 power on self-test completed successfully
+2025-04-04-12.03.51.939 INFO 0065 POWER: Node 0065 power on self-test completed successfully
+2025-04-04-12.03.52.576 INFO 0066 POWER: Node 0066 power on self-test completed successfully
+2025-04-04-12.03.56.712 INFO 0067 POWER: Node 0067 power on self-test completed successfully
+2025-04-04-12.04.00.157 INFO 0068 POWER: Node 0068 power on self-test completed successfully
+2025-04-04-12.04.01.174 INFO 0069 POWER: Node 0069 power on self-test completed successfully
+2025-04-04-12.04.01.937 INFO 0070 POWER: Node 0070 power on self-test completed successfully
+2025-04-04-12.04.05.324 INFO 0071 POWER: Node 0071 power on self-test completed successfully
+2025-04-04-12.04.07.917 INFO 0072 POWER: Node 0072 power on self-test completed successfully
+2025-04-04-12.04.09.422 INFO 0073 POWER: Node 0073 power on self-test completed successfully
+2025-04-04-12.04.12.233 INFO 0074 POWER: Node 0074 power on self-test completed successfully
+2025-04-04-12.04.14.994 INFO 0075 POWER: Node 0075 power on self-test completed successfully
+2025-04-04-12.04.17.189 INFO 0076 POWER: Node 0076 power on self-test completed successfully
+2025-04-04-12.04.18.515 INFO 0077 POWER: Node 0077 power on self-test completed successfully
+2025-04-04-12.04.18.904 INFO 0078 POWER: Node 0078 power on self-test completed successfully
+2025-04-04-12.04.22.013 INFO 0079 POWER: Node 0079 power on self-test completed successfully
+2025-04-04-12.04.22.091 INFO 0080 POWER: Node 0080 power on self-test completed successfully
+2025-04-04-12.04.23.634 INFO 0081 POWER: Node 0081 power on self-test completed successfully
+2025-04-04-12.04.28.007 INFO 0082 POWER: Node 0082 power on self-test completed successfully
+2025-04-04-12.04.30.569 INFO 0083 POWER: Node 0083 power on self-test completed successfully
+2025-04-04-12.04.32.994 INFO 0084 POWER: Node 0084 power on self-test completed successfully
+2025-04-04-12.04.34.796 INFO 0085 POWER: Node 0085 power on self-test completed successfully
+2025-04-04-12.04.35.596 INFO 0086 POWER: Node 0086 power on self-test completed successfully
+2025-04-04-12.04.35.618 INFO 0087 POWER: Node 0087 power on self-test completed successfully
+2025-04-04-12.04.36.031 INFO 0088 POWER: Node 0088 power on self-test completed successfully
+2025-04-04-12.04.39.103 INFO 0089 POWER: Node 0089 power on self-test completed successfully
+2025-04-04-12.04.42.051 INFO 0090 POWER: Node 0090 power on self-test completed successfully
+2025-04-04-12.04.44.654 INFO 0091 POWER: Node 0091 power on self-test completed successfully
+2025-04-04-12.04.46.140 INFO 0092 POWER: Node 0092 power on self-test completed successfully
+2025-04-04-12.04.48.784 INFO 0093 POWER: Node 0093 power on self-test completed successfully
+2025-04-04-12.04.52.695 INFO 0094 POWER: Node 0094 power on self-test completed successfully
+2025-04-04-12.04.56.825 INFO 0095 POWER: Node 0095 power on self-test completed successfully
+2025-04-04-12.05.00.658 INFO 0448 IO: Device /dev/sdg read speed: 396 MB/s
+2025-04-04-12.05.01.852 INFO 0919 MEMORY: Memory check completed: SUCCESS
+2025-04-04-12.05.04.215 INFO 0470 KERNEL: Kernel panic on node 0470, process 7332 terminated
+2025-04-04-12.05.04.655 FATAL 0768 IO: I/O error on device /dev/sdh sector 74186
+2025-04-04-12.05.05.597 INFO 0382 MEMORY: Memory page fault at address 0xe6b454ee
+2025-04-04-12.05.06.307 ERROR 0697 APPLICATION: Application metrics collected for mpi_app
+2025-04-04-12.05.06.429 INFO 0307 TEMPERATURE: HVAC system error code E133
+2025-04-04-12.05.10.312 WARNING 0005 NETWORK: Network throughput dropped to 305 MB/s
+2025-04-04-12.05.11.765 INFO 0582 KERNEL: Kernel panic on node 0582, process 20235 terminated
+2025-04-04-12.05.15.050 INFO 0390 FILESYSTEM: Routine filesystem check passed on /scratch
+2025-04-04-12.05.15.587 INFO 0150 APPLICATION: Job 9011 resource usage within expected parameters
+2025-04-04-12.05.17.528 INFO 0549 APPLICATION: Checkpoint created for job 8560 at 2025-04-04-12.05.16.279
+2025-04-04-12.05.17.660 INFO 0213 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.05.21.563 INFO 0614 SCHEDULER: Job 1027 scheduled on nodes 0614-0624
+2025-04-04-12.05.23.113 ERROR 0929 MEMORY: Memory leak detected in process 5664
+2025-04-04-12.05.27.652 WARNING 0038 MEMORY: Memory page fault at address 0x64b34dea
+2025-04-04-12.05.29.061 INFO 0584 APPLICATION: Application hpcg crashed with signal SIGTERM
+2025-04-04-12.05.32.101 INFO 0314 APPLICATION: Application metrics collected for mpi_app
+2025-04-04-12.05.37.066 INFO 0339 APPLICATION: Application gromacs started successfully on node 0339
+2025-04-04-12.05.40.617 ERROR 0964 IO: Write error on file /path/to/file_818.dat
+2025-04-04-12.05.42.803 FATAL 0054 FILESYSTEM: Routine filesystem check passed on /var
+2025-04-04-12.05.47.301 INFO 0067 SCHEDULER: Resource allocation failed for job 3449
+2025-04-04-12.05.50.995 INFO 0278 POWER: Power supply PSU4 failed on rack R15
+2025-04-04-12.05.55.520 WARNING 0386 TEMPERATURE: Thermal throttling activated on node 0386
+2025-04-04-12.05.59.812 INFO 0736 NETWORK: Network throughput dropped to 799 MB/s
+2025-04-04-12.06.03.864 INFO 0410 POWER: UPS activated due to power instability
+2025-04-04-12.06.04.713 ERROR 0885 MEMORY: Memory page fault at address 0x2b2f814b
+2025-04-04-12.06.07.716 INFO 0914 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.06.10.561 WARNING 0348 NETWORK: TCP connection timeout on port 33113
+2025-04-04-12.06.14.530 INFO 0770 SCHEDULER: Resource availability updated: 370 CPUs, 174 GB memory
+2025-04-04-12.06.16.275 INFO 0937 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.06.17.831 INFO 0889 FILESYSTEM: Inode table overflow on /scratch
+2025-04-04-12.06.22.126 INFO 0095 POWER: Entering power saving mode on node 0095
+2025-04-04-12.06.22.913 WARNING 0681 APPLICATION: MPI communication timeout in job 1239
+2025-04-04-12.06.24.753 INFO 0959 FILESYSTEM: Journal commit failure on /home
+2025-04-04-12.06.27.649 INFO 0529 FILESYSTEM: File corruption detected at /path/to/file_382.dat
+2025-04-04-12.06.28.365 INFO 0415 APPLICATION: Checkpoint created for job 7291 at 2025-04-04-12.06.27.894
+2025-04-04-12.06.29.584 INFO 0212 MEMORY: Swap usage at 35% on node 0212
+2025-04-04-12.06.34.244 WARNING 0059 PROCESSOR: CPU temperature at 36°C on node 0059
+2025-04-04-12.06.37.415 FATAL 0846 POWER: Energy efficiency optimized on node 0846
+2025-04-04-12.06.39.265 INFO 0257 NETWORK: Network throughput dropped to 826 MB/s
+2025-04-04-12.06.41.841 WARNING 0806 PROCESSOR: Processor frequency scaled to 2.62 GHz
+2025-04-04-12.06.46.487 INFO 0809 SCHEDULER: Job 1220 scheduled on nodes 0604-0613
+2025-04-04-12.06.51.310 INFO 0337 NETWORK: Network interface eth3 down on node 0337
+2025-04-04-12.06.52.638 INFO 0112 NETWORK: TCP connection timeout on port 5805
+2025-04-04-12.06.56.318 INFO 0368 APPLICATION: Application gromacs started successfully on node 0368
+2025-04-04-12.06.59.927 FATAL 0482 NETWORK: Link flapping detected on interface eth1
+2025-04-04-12.07.04.233 INFO 0915 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.07.07.153 INFO 0610 SCHEDULER: Job 1112 failed with exit code 63
+2025-04-04-12.07.11.082 INFO 0498 NETWORK: Connectivity verified between node 0498 and 0648
+2025-04-04-12.07.12.728 INFO 0233 NETWORK: TCP connection timeout on port 63822
+2025-04-04-12.07.13.912 INFO 0712 PROCESSOR: CPU idle at 26% on node 0712
+2025-04-04-12.07.14.731 INFO 0698 FILESYSTEM: Filesystem /usr defragmentation completed
+2025-04-04-12.07.17.554 INFO 0070 APPLICATION: MPI communication timeout in job 6043
+2025-04-04-12.07.22.164 FATAL 0508 NETWORK: Link flapping detected on interface eth3
+2025-04-04-12.07.23.549 INFO 0497 IO: I/O error on device /dev/sde sector 175195
+2025-04-04-12.07.24.138 INFO 0932 APPLICATION: Application hpcg started successfully on node 0932
+2025-04-04-12.07.25.586 INFO 0280 KERNEL: System call close failed with error 88
+2025-04-04-12.07.26.161 WARNING 0872 POWER: UPS activated due to power instability
+2025-04-04-12.07.29.373 INFO 0028 POWER: Energy efficiency optimized on node 0028
+2025-04-04-12.07.33.123 INFO 0730 PROCESSOR: Processor 22 throttling due to temperature
+2025-04-04-12.07.35.441 INFO 0760 SCHEDULER: Resource allocation failed for job 7992
+2025-04-04-12.07.38.958 INFO 0257 NETWORK: Network configuration updated on node 0257
+2025-04-04-12.07.41.114 INFO 0682 FILESYSTEM: Filesystem /usr remounted read-only due to errors
+2025-04-04-12.07.43.584 INFO 0840 POWER: Power consumption within normal parameters
+2025-04-04-12.07.48.058 WARNING 0900 TEMPERATURE: Temperature critical at 62°C in rack R04
+2025-04-04-12.07.51.653 INFO 0863 POWER: Power consumption within normal parameters
+2025-04-04-12.07.52.336 INFO 0069 SCHEDULER: Queue status: 16 jobs waiting, 264 jobs running
+2025-04-04-12.07.56.266 INFO 0798 FILESYSTEM: Filesystem /scratch mounted on node 0798
+2025-04-04-12.07.58.969 INFO 0994 SCHEDULER: Queue status: 18 jobs waiting, 169 jobs running
+2025-04-04-12.07.59.025 INFO 0642 FILESYSTEM: Inode table overflow on /tmp
+2025-04-04-12.08.01.692 INFO 0253 SCHEDULER: Queue status: 83 jobs waiting, 147 jobs running
+2025-04-04-12.08.05.298 INFO 0752 POWER: Entering power saving mode on node 0752
+2025-04-04-12.08.06.927 INFO 0429 IO: Device /dev/sdd read speed: 493 MB/s
+2025-04-04-12.08.09.484 INFO 0749 KERNEL: Kernel module lustre loaded successfully
+2025-04-04-12.08.13.092 ERROR 0794 IO: Disk performance test completed on node 0794
+2025-04-04-12.08.16.353 INFO 0117 POWER: Entering power saving mode on node 0117
+2025-04-04-12.08.20.322 INFO 0180 NETWORK: Packet loss detected between nodes 0180 and 0239
+2025-04-04-12.08.20.427 INFO 0947 PROCESSOR: Processor 28 throttling due to temperature
+2025-04-04-12.08.21.933 INFO 0612 MEMORY: Memory page fault at address 0x97251ce2
+2025-04-04-12.08.25.741 INFO 0601 SCHEDULER: Job 7719 failed with exit code 103
+2025-04-04-12.08.26.148 INFO 0972 POWER: Entering power saving mode on node 0972
+2025-04-04-12.08.27.176 WARNING 0794 IO: Disk /dev/sdh full on node 0794
+2025-04-04-12.08.29.571 ERROR 0201 MEMORY: Swap usage at 69% on node 0201
+2025-04-04-12.08.33.583 ERROR 0452 TEMPERATURE: Temperature stable at 53°C in rack R11
+2025-04-04-12.08.35.148 INFO 0460 IO: I/O wait time increased to 81 ms
+2025-04-04-12.08.37.738 INFO 0733 FILESYSTEM: Routine filesystem check passed on /var
+2025-04-04-12.08.42.429 INFO 0393 PROCESSOR: Processor completed 7919229 cycles
+2025-04-04-12.08.46.150 INFO 0735 NETWORK: Network configuration updated on node 0735
+2025-04-04-12.08.49.798 INFO 0529 POWER: Power consumption within normal parameters
+2025-04-04-12.08.53.401 ERROR 0842 POWER: Entering power saving mode on node 0842
+2025-04-04-12.08.56.669 ERROR 0422 MEMORY: Out of memory error, killed process 7874
+2025-04-04-12.09.00.462 INFO 0568 PROCESSOR: Processor completed 4640460 cycles
+2025-04-04-12.09.03.276 INFO 0842 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.09.06.801 INFO 0339 SCHEDULER: Job 4801 scheduled on nodes 0225-0232
+2025-04-04-12.09.11.148 INFO 0005 POWER: Power consumption within normal parameters
+2025-04-04-12.09.16.107 INFO 0174 SCHEDULER: Resource availability updated: 922 CPUs, 6840 GB memory
+2025-04-04-12.09.21.021 INFO 0771 PROCESSOR: Instruction cache error on core 14
+2025-04-04-12.09.23.112 INFO 0525 FILESYSTEM: File corruption detected at /path/to/file_981.dat
+2025-04-04-12.09.23.593 INFO 0848 SCHEDULER: Queue status: 90 jobs waiting, 394 jobs running
+2025-04-04-12.09.28.536 INFO 0107 IO: I/O wait time increased to 194 ms
+2025-04-04-12.09.32.800 INFO 0079 POWER: UPS activated due to power instability
+2025-04-04-12.09.33.308 INFO 0020 TEMPERATURE: Cooling fan FAN2 failed in node 0020
+2025-04-04-12.09.38.195 INFO 0869 APPLICATION: MPI communication timeout in job 5688
+2025-04-04-12.09.38.379 INFO 0412 KERNEL: System performance metrics collected on node 0412
+2025-04-04-12.09.42.376 INFO 0186 NETWORK: Network interface eth2 down on node 0186
+2025-04-04-12.09.46.978 INFO 0927 SCHEDULER: Job 6498 scheduled on nodes 0696-0697
+2025-04-04-12.09.50.948 INFO 0528 KERNEL: Kernel update completed successfully on node 0528
+2025-04-04-12.09.52.292 INFO 0967 APPLICATION: Job 7132 resource usage within expected parameters
+2025-04-04-12.09.52.906 INFO 0091 TEMPERATURE: HVAC system error code E187
+2025-04-04-12.09.56.772 INFO 0812 TEMPERATURE: Thermal throttling activated on node 0812
+2025-04-04-12.09.59.810 INFO 0501 APPLICATION: Performance degradation detected in job 1492
+2025-04-04-12.10.00.815 ERROR 0384 KERNEL: Memory allocation failed at address 0xda57fce7
+2025-04-04-12.10.04.608 INFO 0231 POWER: Energy efficiency optimized on node 0231
+2025-04-04-12.10.06.766 INFO 1017 MEMORY: Memory test passed on node 1017
+2025-04-04-12.10.08.976 INFO 0846 TEMPERATURE: Cooling fan FAN3 failed in node 0846
+2025-04-04-12.10.11.399 INFO 0735 PROCESSOR: CPU temperature at 53°C on node 0735
+2025-04-04-12.10.14.013 INFO 0489 KERNEL: System call exec failed with error 89
+2025-04-04-12.10.17.593 WARNING 0242 POWER: UPS activated due to power instability
+2025-04-04-12.10.19.257 ERROR 0873 TEMPERATURE: Temperature critical at 57°C in rack R12
+2025-04-04-12.10.19.884 ERROR 0442 TEMPERATURE: HVAC system error code E349
+2025-04-04-12.10.22.682 INFO 0498 POWER: Voltage fluctuation detected on rail 5V
+2025-04-04-12.10.23.457 ERROR 0618 FILESYSTEM: Filesystem /usr mounted on node 0618
+2025-04-04-12.10.26.660 WARNING 0849 SCHEDULER: Scheduler load balanced across 59 nodes
+2025-04-04-12.10.30.569 INFO 0954 KERNEL: System performance metrics collected on node 0954
+2025-04-04-12.10.34.431 INFO 0563 MEMORY: Swap usage at 64% on node 0563
+2025-04-04-12.10.34.875 INFO 0819 FILESYSTEM: Filesystem /scratch defragmentation completed
+2025-04-04-12.10.38.681 INFO 0335 KERNEL: Kernel module rdma loaded successfully
+2025-04-04-12.10.39.219 INFO 0358 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.10.42.140 INFO 0187 MEMORY: Swap usage at 16% on node 0187
+2025-04-04-12.10.46.556 INFO 0147 POWER: Power supply PSU3 failed on rack R04
+2025-04-04-12.10.48.412 INFO 0479 TEMPERATURE: HVAC system error code E582
+2025-04-04-12.10.48.608 INFO 0071 NETWORK: Packet loss detected between nodes 0071 and 0827
+2025-04-04-12.10.51.956 INFO 0940 IO: Read timeout on device /dev/sdb
+2025-04-04-12.10.56.483 INFO 0941 IO: Device /dev/sde read speed: 281 MB/s
+2025-04-04-12.11.00.759 INFO 0073 POWER: Power consumption within normal parameters
+2025-04-04-12.11.02.515 INFO 0972 FILESYSTEM: Filesystem /scratch mounted on node 0972
+2025-04-04-12.11.07.462 INFO 0390 TEMPERATURE: Temperature stable at 85°C in rack R02
+2025-04-04-12.11.08.125 INFO 0383 TEMPERATURE: Cooling fan FAN7 failed in node 0383
+2025-04-04-12.11.09.867 INFO 0302 POWER: Entering power saving mode on node 0302
+2025-04-04-12.11.11.178 INFO 0180 NETWORK: TCP connection timeout on port 48408
+2025-04-04-12.11.13.649 ERROR 0138 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.11.17.613 INFO 0439 KERNEL: Process 18884 started with priority 43
+2025-04-04-12.11.18.013 INFO 0106 MEMORY: Memory page fault at address 0x6d6df363
+2025-04-04-12.11.21.742 WARNING 0184 TEMPERATURE: Temperature stable at 69°C in rack R07
+2025-04-04-12.11.25.775 INFO 0177 IO: I/O scheduler switched to cfq on node 0177
+2025-04-04-12.11.29.212 ERROR 0998 KERNEL: Kernel panic on node 0998, process 30072 terminated
+2025-04-04-12.11.32.414 WARNING 0895 POWER: Power consumption within normal parameters
+2025-04-04-12.11.33.255 INFO 0470 MEMORY: Memory usage at 13% on node 0470
+2025-04-04-12.11.36.070 INFO 0081 KERNEL: Kernel panic on node 0081, process 27965 terminated
+2025-04-04-12.11.40.650 INFO 0109 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.11.42.506 ERROR 0584 APPLICATION: Performance degradation detected in job 7079
+2025-04-04-12.11.43.142 INFO 0666 TEMPERATURE: Cooling system operating normally on node 0666
+2025-04-04-12.11.46.763 INFO 0319 TEMPERATURE: Thermal throttling activated on node 0319
+2025-04-04-12.11.49.745 INFO 0677 IO: Disk /dev/sde full on node 0677
+2025-04-04-12.11.51.299 INFO 0440 TEMPERATURE: Temperature critical at 79°C in rack R15
+2025-04-04-12.11.52.913 INFO 0130 FILESYSTEM: Routine filesystem check passed on /scratch
+2025-04-04-12.11.56.941 INFO 0346 PROCESSOR: Instruction cache error on core 28
+2025-04-04-12.11.57.504 INFO 0156 FILESYSTEM: Inode table overflow on /scratch
+2025-04-04-12.12.02.180 INFO 0917 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.12.04.960 WARNING 0559 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.12.07.196 INFO 0559 NETWORK: Network bandwidth test completed on node 0559: 267 MB/s
+2025-04-04-12.12.11.613 ERROR 0566 MEMORY: Memory check completed: WARNING
+2025-04-04-12.12.12.241 INFO 0301 KERNEL: Kernel update completed successfully on node 0301
+2025-04-04-12.12.16.619 INFO 0811 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.12.17.785 INFO 0933 PROCESSOR: Processor frequency scaled to 3.43 GHz
+2025-04-04-12.12.20.752 ERROR 0039 FILESYSTEM: Filesystem /scratch corruption detected on node 0039, remounting read-only
+2025-04-04-12.12.25.183 ERROR 0500 FILESYSTEM: Filesystem /scratch corruption detected on node 0500, remounting read-only
+2025-04-04-12.12.25.889 ERROR 0578 FILESYSTEM: Filesystem /scratch corruption detected on node 0578, remounting read-only
+2025-04-04-12.12.29.017 ERROR 0869 FILESYSTEM: Filesystem /scratch corruption detected on node 0869, remounting read-only
+2025-04-04-12.12.31.976 ERROR 0026 FILESYSTEM: Filesystem /scratch corruption detected on node 0026, remounting read-only
+2025-04-04-12.12.34.571 ERROR 0672 FILESYSTEM: Filesystem /scratch corruption detected on node 0672, remounting read-only
+2025-04-04-12.12.35.483 ERROR 0146 FILESYSTEM: Filesystem /scratch corruption detected on node 0146, remounting read-only
+2025-04-04-12.12.38.017 INFO 0209 POWER: UPS activated due to power instability
+2025-04-04-12.12.42.067 INFO 0164 IO: Disk performance test completed on node 0164
+2025-04-04-12.12.46.174 INFO 0945 KERNEL: Kernel module lustre loaded successfully
+2025-04-04-12.12.46.664 WARNING 0273 FILESYSTEM: Filesystem /var remounted read-only due to errors
+2025-04-04-12.12.48.402 ERROR 0672 FILESYSTEM: Filesystem check found 366 corrupted inodes on node 0672
+2025-04-04-12.12.52.646 INFO 0070 APPLICATION: Checkpoint created for job 7999 at 2025-04-04-12.12.52.628
+2025-04-04-12.12.53.396 ERROR 0672 FILESYSTEM: I/O errors continue on device /dev/sdf on node 0672
+2025-04-04-12.12.55.266 INFO 0595 POWER: Power supply status normal on rack R05
+2025-04-04-12.12.59.674 WARNING 0321 POWER: Power supply PSU1 failed on rack R16
+2025-04-04-12.13.01.119 INFO 0524 NETWORK: Network bandwidth test completed on node 0524: 960 MB/s
+2025-04-04-12.13.02.087 INFO 0086 IO: I/O scheduler switched to noop on node 0086
+2025-04-04-12.13.05.500 INFO 0516 MEMORY: Memory test passed on node 0516
+2025-04-04-12.13.08.476 ERROR 0146 FILESYSTEM: I/O errors continue on device /dev/sdc on node 0146
+2025-04-04-12.13.08.697 WARNING 0980 SCHEDULER: Job 6889 completed in 46587 seconds
+2025-04-04-12.13.13.474 WARNING 0109 POWER: Power supply status normal on rack R02
+2025-04-04-12.13.18.094 ERROR 0672 FILESYSTEM: Repair attempt 1 failed on node 0672
+2025-04-04-12.13.21.282 WARNING 0498 MEMORY: Memory test passed on node 0498
+2025-04-04-12.13.25.279 INFO 0169 NETWORK: Network bandwidth test completed on node 0169: 946 MB/s
+2025-04-04-12.13.26.947 INFO 0821 PROCESSOR: CPU idle at 99% on node 0821
+2025-04-04-12.13.30.720 FATAL 0799 KERNEL: System call fork failed with error 226
+2025-04-04-12.13.34.459 ERROR 0026 FILESYSTEM: I/O errors continue on device /dev/sde on node 0026
+2025-04-04-12.13.34.903 INFO 0133 PROCESSOR: CPU temperature at 81°C on node 0133
+2025-04-04-12.13.37.270 INFO 0521 FILESYSTEM: File corruption detected at /path/to/file_913.dat
+2025-04-04-12.13.38.508 ERROR 0283 PROCESSOR: Instruction cache error on core 12
+2025-04-04-12.13.39.384 ERROR 0869 FILESYSTEM: I/O errors continue on device /dev/sdc on node 0869
+2025-04-04-12.13.43.269 ERROR 0869 FILESYSTEM: I/O errors continue on device /dev/sdd on node 0869
+2025-04-04-12.13.47.844 INFO 0099 TEMPERATURE: Temperature stable at 26°C in rack R03
+2025-04-04-12.13.50.069 INFO 0845 TEMPERATURE: Temperature normalized at 63°C
+2025-04-04-12.13.53.630 INFO 0132 POWER: Power supply status normal on rack R09
+2025-04-04-12.13.53.663 INFO 1018 POWER: Energy efficiency optimized on node 1018
+2025-04-04-12.13.57.469 ERROR 0500 FILESYSTEM: Repair attempt 1 failed on node 0500
+2025-04-04-12.13.59.184 INFO 0519 POWER: Voltage fluctuation detected on rail 3.3V
+2025-04-04-12.14.02.713 INFO 0628 APPLICATION: Job 3143 resource usage within expected parameters
+2025-04-04-12.14.06.562 ERROR 0672 FILESYSTEM: I/O errors continue on device /dev/sdb on node 0672
+2025-04-04-12.14.08.228 INFO 0734 FILESYSTEM: Filesystem /home defragmentation completed
+2025-04-04-12.14.10.016 INFO 0357 SCHEDULER: Job 3791 completed in 26893 seconds
+2025-04-04-12.14.13.266 INFO 0039 FILESYSTEM: Filesystem check completed successfully on node 0039, remounting read-write
+2025-04-04-12.14.17.877 INFO 0500 FILESYSTEM: Filesystem check completed successfully on node 0500, remounting read-write
+2025-04-04-12.14.21.972 INFO 0578 FILESYSTEM: Filesystem check completed successfully on node 0578, remounting read-write
+2025-04-04-12.14.25.096 INFO 0869 FILESYSTEM: Filesystem check completed successfully on node 0869, remounting read-write
+2025-04-04-12.14.29.052 INFO 0026 FILESYSTEM: Filesystem check completed successfully on node 0026, remounting read-write
+2025-04-04-12.14.32.951 INFO 0672 FILESYSTEM: Filesystem check completed successfully on node 0672, remounting read-write
+2025-04-04-12.14.36.662 INFO 0146 FILESYSTEM: Filesystem check completed successfully on node 0146, remounting read-write
+2025-04-04-12.14.41.591 INFO 0236 TEMPERATURE: Cooling system operating normally on node 0236
+2025-04-04-12.14.42.488 ERROR 1003 NETWORK: Connectivity verified between node 1003 and 0321
+2025-04-04-12.14.47.211 INFO 0681 APPLICATION: Job 1387 resource usage within expected parameters
+2025-04-04-12.14.50.731 INFO 0167 SCHEDULER: Queue status: 51 jobs waiting, 293 jobs running
+2025-04-04-12.14.51.356 INFO 0770 NETWORK: Network interface eth0 down on node 0770
+2025-04-04-12.14.54.018 INFO 0503 POWER: Entering power saving mode on node 0503
+2025-04-04-12.14.56.963 WARNING 0140 APPLICATION: Application namd requested 19 GB memory
+2025-04-04-12.14.57.127 WARNING 0198 SCHEDULER: Resource allocation failed for job 1639
+2025-04-04-12.14.57.690 INFO 0836 MEMORY: Memory allocation pool optimized
+2025-04-04-12.14.59.994 INFO 0858 IO: I/O error on device /dev/sdg sector 540574
+2025-04-04-12.15.02.171 WARNING 0360 SCHEDULER: Queue status: 53 jobs waiting, 311 jobs running
+2025-04-04-12.15.03.869 INFO 0041 PROCESSOR: Core 12 running optimally on node 0041
+2025-04-04-12.15.05.970 INFO 0860 NETWORK: TCP connection timeout on port 19554
+2025-04-04-12.15.10.733 INFO 0327 KERNEL: Process 24231 started with priority 56
+2025-04-04-12.15.15.301 INFO 0289 MEMORY: Memory page fault at address 0x5c4b5374
+2025-04-04-12.15.17.367 INFO 0550 APPLICATION: Application mpi_app started successfully on node 0550
+2025-04-04-12.15.21.709 INFO 0515 NETWORK: Network throughput dropped to 651 MB/s
+2025-04-04-12.15.22.779 INFO 0361 NETWORK: Connectivity verified between node 0361 and 0291
+2025-04-04-12.15.27.015 FATAL 0010 POWER: UPS activated due to power instability
+2025-04-04-12.15.31.198 INFO 0798 APPLICATION: Application mpi_app requested 73 GB memory
+2025-04-04-12.15.34.852 ERROR 0803 MEMORY: Memory test passed on node 0803
+2025-04-04-12.15.37.661 INFO 0281 NETWORK: Connectivity verified between node 0281 and 0152
+2025-04-04-12.15.40.507 INFO 0155 MEMORY: Out of memory error, killed process 23223
+2025-04-04-12.15.41.792 INFO 0119 SCHEDULER: Queue status: 92 jobs waiting, 84 jobs running
+2025-04-04-12.15.44.739 INFO 0752 POWER: Power supply status normal on rack R10
+2025-04-04-12.15.44.746 INFO 0599 POWER: UPS activated due to power instability
+2025-04-04-12.15.46.891 FATAL 0130 KERNEL: Kernel module rdma loaded successfully
+2025-04-04-12.15.48.788 WARNING 0241 IO: Write error on file /path/to/file_934.dat
+2025-04-04-12.15.51.222 INFO 0179 APPLICATION: Job 1060 resource usage within expected parameters
+2025-04-04-12.15.54.972 INFO 0481 MEMORY: Memory check completed: PARTIAL
+2025-04-04-12.15.57.714 FATAL 0138 PROCESSOR: Instruction cache error on core 18
+2025-04-04-12.15.59.337 INFO 0740 NETWORK: Network configuration updated on node 0740
+2025-04-04-12.16.01.755 INFO 0742 APPLICATION: MPI communication timeout in job 6989
+2025-04-04-12.16.02.925 INFO 0515 NETWORK: Network throughput dropped to 965 MB/s
+2025-04-04-12.16.07.391 ERROR 0584 SCHEDULER: Resource availability updated: 861 CPUs, 9278 GB memory
+2025-04-04-12.16.10.136 INFO 0646 POWER: Power consumption at 998 watts
+2025-04-04-12.16.13.100 INFO 0393 IO: I/O scheduler switched to cfq on node 0393
+2025-04-04-12.16.13.263 INFO 0205 PROCESSOR: Processor completed 4035076 cycles
+2025-04-04-12.16.13.976 INFO 0750 SCHEDULER: Queue status: 99 jobs waiting, 452 jobs running
+2025-04-04-12.16.18.921 INFO 0038 KERNEL: Memory allocation failed at address 0x5b120004
+2025-04-04-12.16.19.121 INFO 0996 MEMORY: Memory check completed: FAILURE
+2025-04-04-12.16.22.452 INFO 0644 IO: I/O error on device /dev/sdc sector 636223
+2025-04-04-12.16.22.902 WARNING 0672 TEMPERATURE: Thermal throttling activated on node 0672
+2025-04-04-12.16.26.147 ERROR 0067 POWER: Energy efficiency optimized on node 0067
+2025-04-04-12.16.27.045 INFO 0906 APPLICATION: MPI communication timeout in job 8927
+2025-04-04-12.16.27.653 INFO 0298 FILESYSTEM: Quota usage at 62% on filesystem /usr
+2025-04-04-12.16.30.770 INFO 0956 PROCESSOR: CPU utilization at 93% on node 0956
+2025-04-04-12.16.34.749 WARNING 0289 PROCESSOR: Processor 25 throttling due to temperature
+2025-04-04-12.16.35.939 WARNING 0303 SCHEDULER: Scheduler load balanced across 50 nodes
+2025-04-04-12.16.37.413 ERROR 0691 FILESYSTEM: Filesystem /tmp mounted on node 0691
+2025-04-04-12.16.39.553 INFO 0886 APPLICATION: Application vasp started successfully on node 0886
+2025-04-04-12.16.40.897 INFO 0749 IO: Disk performance test completed on node 0749
+2025-04-04-12.16.43.635 INFO 0465 TEMPERATURE: HVAC system error code E659
+2025-04-04-12.16.48.221 INFO 0342 FILESYSTEM: Quota usage at 43% on filesystem /tmp
+2025-04-04-12.16.50.464 INFO 0564 IO: Device /dev/sdg read speed: 262 MB/s
+2025-04-04-12.16.53.210 INFO 0710 PROCESSOR: CPU utilization at 80% on node 0710
+2025-04-04-12.16.53.800 INFO 0466 NETWORK: Network bandwidth test completed on node 0466: 437 MB/s
+2025-04-04-12.16.56.738 INFO 0908 MEMORY: Memory allocation pool optimized
+2025-04-04-12.16.58.945 INFO 0583 MEMORY: Memory test passed on node 0583
+2025-04-04-12.17.03.367 INFO 0689 APPLICATION: Performance degradation detected in job 7573
+2025-04-04-12.17.04.818 WARNING 0323 APPLICATION: Application namd crashed with signal SIGKILL
+2025-04-04-12.17.08.106 INFO 0931 MEMORY: Memory leak detected in process 5031
+2025-04-04-12.17.10.149 INFO 0195 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.17.10.941 INFO 0500 TEMPERATURE: Temperature stable at 68°C in rack R08
+2025-04-04-12.17.12.431 ERROR 0140 POWER: UPS activated due to power instability
+2025-04-04-12.17.13.264 WARNING 0718 MEMORY: Memory usage at 55% on node 0718
+2025-04-04-12.17.16.584 ERROR 0171 FILESYSTEM: Filesystem /home remounted read-only due to errors
+2025-04-04-12.17.19.152 INFO 0951 TEMPERATURE: Thermal throttling activated on node 0951
+2025-04-04-12.17.22.151 INFO 0934 IO: Write error on file /path/to/file_653.dat
+2025-04-04-12.17.22.439 FATAL 0470 SCHEDULER: Resource availability updated: 900 CPUs, 5464 GB memory
+2025-04-04-12.17.23.240 INFO 0639 FILESYSTEM: Filesystem /home mounted on node 0639
+2025-04-04-12.17.26.306 INFO 0136 FILESYSTEM: File corruption detected at /path/to/file_345.dat
+2025-04-04-12.17.26.682 INFO 0595 FILESYSTEM: Filesystem /usr mounted on node 0595
+2025-04-04-12.17.27.993 INFO 0605 TEMPERATURE: Cooling system operating normally on node 0605
+2025-04-04-12.17.30.176 INFO 0024 TEMPERATURE: Temperature stable at 78°C in rack R08
+2025-04-04-12.17.31.705 INFO 0229 TEMPERATURE: Temperature stable at 55°C in rack R16
+2025-04-04-12.17.34.390 INFO 0209 TEMPERATURE: Cooling fan FAN3 failed in node 0209
+2025-04-04-12.17.39.150 INFO 0225 SCHEDULER: Job 8594 scheduled on nodes 0832-0835
+2025-04-04-12.17.39.704 INFO 0369 SCHEDULER: Resource allocation failed for job 9216
+2025-04-04-12.17.42.019 INFO 0062 FILESYSTEM: Inode table overflow on /var
+2025-04-04-12.17.45.710 ERROR 0764 IO: Device /dev/sdd read speed: 323 MB/s
+2025-04-04-12.17.48.888 INFO 0036 NETWORK: Network interface eth0 down on node 0036
+2025-04-04-12.17.49.380 INFO 0895 TEMPERATURE: Cooling system operating normally on node 0895
+2025-04-04-12.17.51.125 ERROR 0193 POWER: Energy efficiency optimized on node 0193
+2025-04-04-12.17.56.111 INFO 0727 IO: I/O wait time increased to 129 ms
+2025-04-04-12.17.57.537 INFO 0956 POWER: Power supply status normal on rack R08
+2025-04-04-12.17.57.792 INFO 0672 APPLICATION: Application hpcg started successfully on node 0672
+2025-04-04-12.18.00.845 INFO 0110 POWER: Power supply status normal on rack R15
+2025-04-04-12.18.01.000 INFO 1015 IO: Device /dev/sde read speed: 495 MB/s
+2025-04-04-12.18.03.761 INFO 0982 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.18.03.975 ERROR 0167 FILESYSTEM: Filesystem /scratch corruption detected on node 0167, remounting read-only
+2025-04-04-12.18.06.792 ERROR 0999 FILESYSTEM: Filesystem /scratch corruption detected on node 0999, remounting read-only
+2025-04-04-12.18.07.204 ERROR 0091 FILESYSTEM: Filesystem /scratch corruption detected on node 0091, remounting read-only
+2025-04-04-12.18.09.183 ERROR 0933 FILESYSTEM: Filesystem /scratch corruption detected on node 0933, remounting read-only
+2025-04-04-12.18.12.517 ERROR 0597 FILESYSTEM: Filesystem /scratch corruption detected on node 0597, remounting read-only
+2025-04-04-12.18.16.366 ERROR 0272 FILESYSTEM: Filesystem /scratch corruption detected on node 0272, remounting read-only
+2025-04-04-12.18.17.522 ERROR 0373 FILESYSTEM: Filesystem /scratch corruption detected on node 0373, remounting read-only
+2025-04-04-12.18.19.166 ERROR 0617 FILESYSTEM: Filesystem /scratch corruption detected on node 0617, remounting read-only
+2025-04-04-12.18.20.096 ERROR 0699 FILESYSTEM: Filesystem /scratch corruption detected on node 0699, remounting read-only
+2025-04-04-12.18.22.478 ERROR 0324 FILESYSTEM: Filesystem /scratch corruption detected on node 0324, remounting read-only
+2025-04-04-12.18.26.141 ERROR 0762 FILESYSTEM: Filesystem /scratch corruption detected on node 0762, remounting read-only
+2025-04-04-12.18.29.209 ERROR 0424 FILESYSTEM: Filesystem /scratch corruption detected on node 0424, remounting read-only
+2025-04-04-12.18.31.775 ERROR 0514 FILESYSTEM: Filesystem /scratch corruption detected on node 0514, remounting read-only
+2025-04-04-12.18.31.895 ERROR 0420 FILESYSTEM: Filesystem /scratch corruption detected on node 0420, remounting read-only
+2025-04-04-12.18.32.809 ERROR 0144 FILESYSTEM: Filesystem /scratch corruption detected on node 0144, remounting read-only
+2025-04-04-12.18.37.315 ERROR 0007 FILESYSTEM: Filesystem /scratch corruption detected on node 0007, remounting read-only
+2025-04-04-12.18.37.775 ERROR 0879 FILESYSTEM: Filesystem /scratch corruption detected on node 0879, remounting read-only
+2025-04-04-12.18.38.443 ERROR 0436 FILESYSTEM: Filesystem /scratch corruption detected on node 0436, remounting read-only
+2025-04-04-12.18.41.416 INFO 0685 IO: Write error on file /path/to/file_830.dat
+2025-04-04-12.18.42.420 ERROR 0324 FILESYSTEM: Repair attempt 3 failed on node 0324
+2025-04-04-12.18.42.841 INFO 0814 MEMORY: Memory page fault at address 0xbfb60769
+2025-04-04-12.18.46.117 ERROR 0324 FILESYSTEM: I/O errors continue on device /dev/sdb on node 0324
+2025-04-04-12.18.47.210 ERROR 0167 FILESYSTEM: Filesystem check found 409 corrupted inodes on node 0167
+2025-04-04-12.18.48.759 WARNING 0615 KERNEL: Process 9883 started with priority 59
+2025-04-04-12.18.52.512 ERROR 0324 FILESYSTEM: Repair attempt 3 failed on node 0324
+2025-04-04-12.18.54.651 INFO 0453 POWER: UPS activated due to power instability
+2025-04-04-12.18.54.805 INFO 0839 SCHEDULER: Scheduler load balanced across 52 nodes
+2025-04-04-12.18.59.540 INFO 0721 KERNEL: Kernel update completed successfully on node 0721
+2025-04-04-12.19.03.920 INFO 0743 POWER: Voltage fluctuation detected on rail 5V
+2025-04-04-12.19.07.620 INFO 0672 POWER: Entering power saving mode on node 0672
+2025-04-04-12.19.11.506 INFO 0358 TEMPERATURE: HVAC system error code E049
+2025-04-04-12.19.14.815 INFO 0760 KERNEL: Task scheduler optimized on node 0760
+2025-04-04-12.19.16.926 INFO 0174 IO: I/O error on device /dev/sdg sector 639864
+2025-04-04-12.19.18.787 ERROR 0007 FILESYSTEM: Filesystem check found 524 corrupted inodes on node 0007
+2025-04-04-12.19.22.786 FATAL 0225 NETWORK: Network throughput dropped to 70 MB/s
+2025-04-04-12.19.24.595 WARNING 0638 FILESYSTEM: File corruption detected at /path/to/file_193.dat
+2025-04-04-12.19.27.358 ERROR 0373 FILESYSTEM: Filesystem check found 888 corrupted inodes on node 0373
+2025-04-04-12.19.31.138 INFO 0862 KERNEL: Memory allocation failed at address 0xbe605abd
+2025-04-04-12.19.33.202 INFO 0559 IO: Disk /dev/sdg full on node 0559
+2025-04-04-12.19.36.234 INFO 0735 MEMORY: Memory page fault at address 0xda9a2e86
+2025-04-04-12.19.41.123 ERROR 0373 FILESYSTEM: Filesystem check found 851 corrupted inodes on node 0373
+2025-04-04-12.19.43.978 INFO 0731 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.19.44.807 INFO 0736 POWER: Power consumption at 991 watts
+2025-04-04-12.19.45.571 INFO 0540 SCHEDULER: Scheduler load balanced across 12 nodes
+2025-04-04-12.19.46.751 INFO 0779 MEMORY: Out of memory error, killed process 2781
+2025-04-04-12.19.48.131 INFO 0167 FILESYSTEM: Filesystem check completed successfully on node 0167, remounting read-write
+2025-04-04-12.19.48.443 INFO 0999 FILESYSTEM: Filesystem check completed successfully on node 0999, remounting read-write
+2025-04-04-12.19.48.998 INFO 0091 FILESYSTEM: Filesystem check completed successfully on node 0091, remounting read-write
+2025-04-04-12.19.50.703 INFO 0933 FILESYSTEM: Filesystem check completed successfully on node 0933, remounting read-write
+2025-04-04-12.19.52.005 INFO 0597 FILESYSTEM: Filesystem check completed successfully on node 0597, remounting read-write
+2025-04-04-12.19.55.945 INFO 0272 FILESYSTEM: Filesystem check completed successfully on node 0272, remounting read-write
+2025-04-04-12.19.59.145 INFO 0373 FILESYSTEM: Filesystem check completed successfully on node 0373, remounting read-write
+2025-04-04-12.19.59.286 INFO 0617 FILESYSTEM: Filesystem check completed successfully on node 0617, remounting read-write
+2025-04-04-12.20.04.176 INFO 0699 FILESYSTEM: Filesystem check completed successfully on node 0699, remounting read-write
+2025-04-04-12.20.05.706 INFO 0324 FILESYSTEM: Filesystem check completed successfully on node 0324, remounting read-write
+2025-04-04-12.20.07.170 INFO 0762 FILESYSTEM: Filesystem check completed successfully on node 0762, remounting read-write
+2025-04-04-12.20.09.445 INFO 0424 FILESYSTEM: Filesystem check completed successfully on node 0424, remounting read-write
+2025-04-04-12.20.09.501 INFO 0514 FILESYSTEM: Filesystem check completed successfully on node 0514, remounting read-write
+2025-04-04-12.20.11.933 INFO 0420 FILESYSTEM: Filesystem check completed successfully on node 0420, remounting read-write
+2025-04-04-12.20.14.947 INFO 0144 FILESYSTEM: Filesystem check completed successfully on node 0144, remounting read-write
+2025-04-04-12.20.19.053 INFO 0007 FILESYSTEM: Filesystem check completed successfully on node 0007, remounting read-write
+2025-04-04-12.20.21.763 INFO 0879 FILESYSTEM: Filesystem check completed successfully on node 0879, remounting read-write
+2025-04-04-12.20.25.994 INFO 0436 FILESYSTEM: Filesystem check completed successfully on node 0436, remounting read-write
+2025-04-04-12.20.27.403 INFO 0067 IO: Device /dev/sda read speed: 441 MB/s
+2025-04-04-12.20.32.298 INFO 0389 PROCESSOR: Processor 21 throttling due to temperature
+2025-04-04-12.20.32.732 INFO 0139 NETWORK: Packet loss detected between nodes 0139 and 0439
+2025-04-04-12.20.33.180 INFO 0575 FILESYSTEM: Filesystem /var mounted on node 0575
+2025-04-04-12.20.38.040 INFO 0681 MEMORY: Memory page fault at address 0x5746a27a
+2025-04-04-12.20.40.279 INFO 0141 MEMORY: Memory allocation pool optimized
+2025-04-04-12.20.43.935 INFO 0110 TEMPERATURE: Thermal throttling activated on node 0110
+2025-04-04-12.20.48.914 INFO 0917 KERNEL: System call read failed with error 244
+2025-04-04-12.20.49.995 INFO 0537 SCHEDULER: Scheduler load balanced across 24 nodes
+2025-04-04-12.20.52.251 INFO 0505 PROCESSOR: Processor completed 3218577 cycles
+2025-04-04-12.20.52.632 FATAL 0231 SCHEDULER: Queue status: 20 jobs waiting, 111 jobs running
+2025-04-04-12.20.52.837 INFO 0367 PROCESSOR: CPU utilization at 42% on node 0367
+2025-04-04-12.20.56.863 INFO 0856 KERNEL: Kernel module nvidia loaded successfully
+2025-04-04-12.20.59.564 INFO 0451 PROCESSOR: CPU utilization at 97% on node 0451
+2025-04-04-12.21.01.317 INFO 0318 NETWORK: Link flapping detected on interface eth0
+2025-04-04-12.21.05.378 INFO 0962 APPLICATION: Job 9857 resource usage within expected parameters
+2025-04-04-12.21.10.294 WARNING 0854 MEMORY: Memory test passed on node 0854
+2025-04-04-12.21.12.802 INFO 0937 PROCESSOR: Instruction cache error on core 23
+2025-04-04-12.21.17.753 INFO 1006 FILESYSTEM: Quota usage at 97% on filesystem /scratch
+2025-04-04-12.21.22.277 INFO 0927 FILESYSTEM: Filesystem /scratch remounted read-only due to errors
+2025-04-04-12.21.22.513 ERROR 0813 IO: I/O error on device /dev/sdf sector 148726
+2025-04-04-12.21.26.724 WARNING 0619 IO: Device /dev/sdd read speed: 155 MB/s
+2025-04-04-12.21.29.772 INFO 0694 NETWORK: Packet loss detected between nodes 0694 and 0108
+2025-04-04-12.21.33.661 WARNING 0404 TEMPERATURE: Temperature stable at 71°C in rack R15
+2025-04-04-12.21.36.460 INFO 0600 MEMORY: Memory check completed: WARNING
+2025-04-04-12.21.38.245 INFO 0988 APPLICATION: Application mpi_app started successfully on node 0988
+2025-04-04-12.21.40.843 FATAL 1002 FILESYSTEM: Journal commit failure on /tmp
+2025-04-04-12.21.43.629 INFO 0873 MEMORY: Memory page fault at address 0x77faa552
+2025-04-04-12.21.46.711 WARNING 0349 POWER: Power supply PSU4 failed on rack R14
+2025-04-04-12.21.50.574 ERROR 0984 APPLICATION: Application mpi_app requested 68 GB memory
+2025-04-04-12.21.52.374 INFO 0690 MEMORY: Out of memory error, killed process 21714
+2025-04-04-12.21.54.315 INFO 0064 KERNEL: Task scheduler optimized on node 0064
+2025-04-04-12.21.55.733 ERROR 1011 FILESYSTEM: Journal commit failure on /usr
+2025-04-04-12.21.59.540 INFO 0656 SCHEDULER: Job 4405 failed with exit code 41
+2025-04-04-12.22.02.351 FATAL 0935 KERNEL: Process 8578 started with priority 78
+2025-04-04-12.22.05.689 FATAL 0520 POWER: Power consumption within normal parameters
+2025-04-04-12.22.09.529 INFO 0387 SCHEDULER: Job 5328 failed with exit code 184
+2025-04-04-12.22.10.884 INFO 0031 FILESYSTEM: Routine filesystem check passed on /scratch
+2025-04-04-12.22.12.409 INFO 0507 PROCESSOR: Processor 5 throttling due to temperature
+2025-04-04-12.22.14.387 INFO 0795 IO: I/O error on device /dev/sda sector 469898
+2025-04-04-12.22.15.105 INFO 0226 POWER: Power consumption within normal parameters
+2025-04-04-12.22.17.202 INFO 0793 TEMPERATURE: Cooling system operating normally on node 0793
+2025-04-04-12.22.18.190 INFO 0333 NETWORK: Connectivity verified between node 0333 and 0527
+2025-04-04-12.22.18.718 INFO 0771 PROCESSOR: Instruction cache error on core 24
+2025-04-04-12.22.22.420 INFO 0323 MEMORY: Memory leak detected in process 8905
+2025-04-04-12.22.23.521 WARNING 0079 PROCESSOR: Instruction cache error on core 18
+2025-04-04-12.22.27.602 WARNING 0946 SCHEDULER: Job 4325 scheduled on nodes 0934-0940
+2025-04-04-12.22.29.177 ERROR 0649 TEMPERATURE: Temperature critical at 68°C in rack R03
+2025-04-04-12.22.32.167 INFO 0475 MEMORY: Memory usage at 34% on node 0475
+2025-04-04-12.22.36.289 INFO 0638 IO: Read timeout on device /dev/sde
+2025-04-04-12.22.39.787 INFO 0050 FILESYSTEM: Routine filesystem check passed on /usr
+2025-04-04-12.22.42.176 WARNING 0930 PROCESSOR: CPU temperature at 70°C on node 0930
+2025-04-04-12.22.42.721 ERROR 0112 APPLICATION: MPI communication timeout in job 7462
+2025-04-04-12.22.47.169 INFO 0413 MEMORY: Memory page fault at address 0x6a78f2c4
+2025-04-04-12.22.50.594 INFO 0768 APPLICATION: Application metrics collected for vasp
+2025-04-04-12.22.54.902 INFO 0426 APPLICATION: Performance degradation detected in job 6380
+2025-04-04-12.22.55.271 INFO 0950 MEMORY: Memory allocation pool optimized
+2025-04-04-12.22.55.462 INFO 0264 KERNEL: System performance metrics collected on node 0264
+2025-04-04-12.22.59.115 INFO 0806 NETWORK: Connectivity verified between node 0806 and 0264
+2025-04-04-12.22.59.422 INFO 0505 TEMPERATURE: Thermal throttling activated on node 0505
+2025-04-04-12.23.03.454 INFO 0903 NETWORK: Network throughput dropped to 709 MB/s
+2025-04-04-12.23.07.616 INFO 0821 NETWORK: Link flapping detected on interface eth1
+2025-04-04-12.23.08.580 INFO 0776 APPLICATION: Application namd requested 77 GB memory
+2025-04-04-12.23.12.511 INFO 0767 POWER: UPS activated due to power instability
+2025-04-04-12.23.14.580 ERROR 0222 KERNEL: Memory allocation failed at address 0x6d12b9d8
+2025-04-04-12.23.17.234 INFO 0989 NETWORK: Packet loss detected between nodes 0989 and 0321
+2025-04-04-12.23.19.618 INFO 0805 PROCESSOR: Processor frequency scaled to 2.67 GHz
+2025-04-04-12.23.20.609 INFO 0193 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.23.25.028 WARNING 0551 IO: Disk /dev/sda full on node 0551
+2025-04-04-12.23.25.846 INFO 0508 SCHEDULER: Job 2253 failed with exit code 155
+2025-04-04-12.23.29.675 INFO 0553 KERNEL: Kernel panic on node 0553, process 16609 terminated
+2025-04-04-12.23.29.849 FATAL 0529 NETWORK: Packet loss detected between nodes 0529 and 0512
+2025-04-04-12.23.33.580 INFO 0020 IO: Disk performance test completed on node 0020
+2025-04-04-12.23.38.480 INFO 1018 POWER: Power supply PSU2 failed on rack R04
+2025-04-04-12.23.40.449 ERROR 0244 POWER: Power supply status normal on rack R01
+2025-04-04-12.23.42.586 INFO 0926 FILESYSTEM: Filesystem /tmp defragmentation completed
+2025-04-04-12.23.46.262 INFO 0879 FILESYSTEM: Quota usage at 52% on filesystem /home
+2025-04-04-12.23.50.721 INFO 0522 FILESYSTEM: Filesystem /tmp remounted read-only due to errors
+2025-04-04-12.23.51.512 INFO 0794 KERNEL: Memory allocation failed at address 0x3e6c87e4
+2025-04-04-12.23.54.210 ERROR 0705 KERNEL: Kernel module infiniband loaded successfully
+2025-04-04-12.23.56.612 INFO 0098 SCHEDULER: Job 5499 failed with exit code 184
+2025-04-04-12.23.56.680 INFO 0064 KERNEL: Kernel module nfs loaded successfully
+2025-04-04-12.23.58.343 WARNING 0518 IO: Read timeout on device /dev/sdd
+2025-04-04-12.23.58.433 INFO 0555 NETWORK: Network throughput dropped to 614 MB/s
+2025-04-04-12.24.00.940 INFO 0351 PROCESSOR: CPU temperature at 27°C on node 0351
+2025-04-04-12.24.04.480 INFO 0221 PROCESSOR: CPU utilization at 32% on node 0221
+2025-04-04-12.24.07.841 WARNING 0459 TEMPERATURE: Thermal throttling activated on node 0459
+2025-04-04-12.24.10.403 INFO 0120 MEMORY: Out of memory error, killed process 6240
+2025-04-04-12.24.14.145 INFO 0395 POWER: Power supply status normal on rack R09
+2025-04-04-12.24.18.670 WARNING 0551 POWER: UPS activated due to power instability
+2025-04-04-12.24.19.566 INFO 0490 FILESYSTEM: Journal commit failure on /var
+2025-04-04-12.24.20.747 FATAL 0416 POWER: Power supply failure on rack R13, nodes shutting down
+2025-04-04-12.24.24.771 ERROR 0416 POWER: Node 0416 shutting down due to power failure
+2025-04-04-12.24.29.366 ERROR 0417 POWER: Node 0417 shutting down due to power failure
+2025-04-04-12.24.31.158 ERROR 0418 POWER: Node 0418 shutting down due to power failure
+2025-04-04-12.24.33.955 ERROR 0419 POWER: Node 0419 shutting down due to power failure
+2025-04-04-12.24.36.267 ERROR 0420 POWER: Node 0420 shutting down due to power failure
+2025-04-04-12.24.38.226 ERROR 0421 POWER: Node 0421 shutting down due to power failure
+2025-04-04-12.24.39.002 ERROR 0422 POWER: Node 0422 shutting down due to power failure
+2025-04-04-12.24.41.323 ERROR 0423 POWER: Node 0423 shutting down due to power failure
+2025-04-04-12.24.45.563 ERROR 0424 POWER: Node 0424 shutting down due to power failure
+2025-04-04-12.24.45.749 ERROR 0425 POWER: Node 0425 shutting down due to power failure
+2025-04-04-12.24.46.772 ERROR 0426 POWER: Node 0426 shutting down due to power failure
+2025-04-04-12.24.51.550 ERROR 0427 POWER: Node 0427 shutting down due to power failure
+2025-04-04-12.24.52.202 ERROR 0428 POWER: Node 0428 shutting down due to power failure
+2025-04-04-12.24.55.052 ERROR 0429 POWER: Node 0429 shutting down due to power failure
+2025-04-04-12.24.58.153 ERROR 0430 POWER: Node 0430 shutting down due to power failure
+2025-04-04-12.25.01.382 ERROR 0431 POWER: Node 0431 shutting down due to power failure
+2025-04-04-12.25.05.504 ERROR 0432 POWER: Node 0432 shutting down due to power failure
+2025-04-04-12.25.08.027 ERROR 0433 POWER: Node 0433 shutting down due to power failure
+2025-04-04-12.25.09.909 ERROR 0434 POWER: Node 0434 shutting down due to power failure
+2025-04-04-12.25.13.764 ERROR 0435 POWER: Node 0435 shutting down due to power failure
+2025-04-04-12.25.15.382 ERROR 0436 POWER: Node 0436 shutting down due to power failure
+2025-04-04-12.25.20.242 ERROR 0437 POWER: Node 0437 shutting down due to power failure
+2025-04-04-12.25.24.695 ERROR 0438 POWER: Node 0438 shutting down due to power failure
+2025-04-04-12.25.27.564 ERROR 0439 POWER: Node 0439 shutting down due to power failure
+2025-04-04-12.25.31.329 ERROR 0440 POWER: Node 0440 shutting down due to power failure
+2025-04-04-12.25.33.698 ERROR 0441 POWER: Node 0441 shutting down due to power failure
+2025-04-04-12.25.37.517 ERROR 0442 POWER: Node 0442 shutting down due to power failure
+2025-04-04-12.25.39.997 ERROR 0443 POWER: Node 0443 shutting down due to power failure
+2025-04-04-12.25.43.703 ERROR 0444 POWER: Node 0444 shutting down due to power failure
+2025-04-04-12.25.45.597 ERROR 0445 POWER: Node 0445 shutting down due to power failure
+2025-04-04-12.25.46.411 ERROR 0446 POWER: Node 0446 shutting down due to power failure
+2025-04-04-12.25.51.127 ERROR 0447 POWER: Node 0447 shutting down due to power failure
+2025-04-04-12.25.54.047 INFO 0457 PROCESSOR: CPU idle at 90% on node 0457
+2025-04-04-12.25.57.305 INFO 0922 PROCESSOR: Processor completed 4950379 cycles
+2025-04-04-12.25.57.757 ERROR 0418 POWER: Power restoration delayed, ETA 25 minutes
+2025-04-04-12.25.59.971 INFO 0072 FILESYSTEM: Journal commit failure on /home
+2025-04-04-12.26.03.639 INFO 0024 FILESYSTEM: Journal commit failure on /usr
+2025-04-04-12.26.05.572 INFO 0313 APPLICATION: Application linpack requested 63 GB memory
+2025-04-04-12.26.08.026 INFO 0416 POWER: Power restored to rack, initiating node startup sequence
+2025-04-04-12.26.09.996 INFO 0416 POWER: Node 0416 power on self-test completed successfully
+2025-04-04-12.26.10.559 INFO 0417 POWER: Node 0417 power on self-test completed successfully
+2025-04-04-12.26.12.635 INFO 0418 POWER: Node 0418 power on self-test completed successfully
+2025-04-04-12.26.13.269 INFO 0419 POWER: Node 0419 power on self-test completed successfully
+2025-04-04-12.26.17.243 INFO 0420 POWER: Node 0420 power on self-test completed successfully
+2025-04-04-12.26.19.395 INFO 0421 POWER: Node 0421 power on self-test completed successfully
+2025-04-04-12.26.19.660 INFO 0422 POWER: Node 0422 power on self-test completed successfully
+2025-04-04-12.26.21.695 INFO 0423 POWER: Node 0423 power on self-test completed successfully
+2025-04-04-12.26.24.625 INFO 0424 POWER: Node 0424 power on self-test completed successfully
+2025-04-04-12.26.28.274 INFO 0425 POWER: Node 0425 power on self-test completed successfully
+2025-04-04-12.26.31.886 INFO 0426 POWER: Node 0426 power on self-test completed successfully
+2025-04-04-12.26.35.553 INFO 0427 POWER: Node 0427 power on self-test completed successfully
+2025-04-04-12.26.39.527 INFO 0428 POWER: Node 0428 power on self-test completed successfully
+2025-04-04-12.26.43.527 INFO 0429 POWER: Node 0429 power on self-test completed successfully
+2025-04-04-12.26.48.143 INFO 0430 POWER: Node 0430 power on self-test completed successfully
+2025-04-04-12.26.52.725 INFO 0431 POWER: Node 0431 power on self-test completed successfully
+2025-04-04-12.26.53.175 INFO 0432 POWER: Node 0432 power on self-test completed successfully
+2025-04-04-12.26.54.772 INFO 0433 POWER: Node 0433 power on self-test completed successfully
+2025-04-04-12.26.55.904 INFO 0434 POWER: Node 0434 power on self-test completed successfully
+2025-04-04-12.27.00.534 INFO 0435 POWER: Node 0435 power on self-test completed successfully
+2025-04-04-12.27.02.656 INFO 0436 POWER: Node 0436 power on self-test completed successfully
+2025-04-04-12.27.04.577 INFO 0437 POWER: Node 0437 power on self-test completed successfully
+2025-04-04-12.27.08.338 INFO 0438 POWER: Node 0438 power on self-test completed successfully
+2025-04-04-12.27.10.097 INFO 0439 POWER: Node 0439 power on self-test completed successfully
+2025-04-04-12.27.13.686 INFO 0440 POWER: Node 0440 power on self-test completed successfully
+2025-04-04-12.27.14.268 INFO 0441 POWER: Node 0441 power on self-test completed successfully
+2025-04-04-12.27.14.935 INFO 0442 POWER: Node 0442 power on self-test completed successfully
+2025-04-04-12.27.17.724 INFO 0443 POWER: Node 0443 power on self-test completed successfully
+2025-04-04-12.27.21.799 INFO 0444 POWER: Node 0444 power on self-test completed successfully
+2025-04-04-12.27.26.038 INFO 0445 POWER: Node 0445 power on self-test completed successfully
+2025-04-04-12.27.27.453 INFO 0446 POWER: Node 0446 power on self-test completed successfully
+2025-04-04-12.27.28.328 INFO 0447 POWER: Node 0447 power on self-test completed successfully
+2025-04-04-12.27.32.310 ERROR 0564 FILESYSTEM: Quota usage at 20% on filesystem /home
+2025-04-04-12.27.36.061 INFO 1009 NETWORK: TCP connection timeout on port 28318
+2025-04-04-12.27.38.798 WARNING 0675 IO: Write error on file /path/to/file_769.dat
+2025-04-04-12.27.41.144 INFO 0779 TEMPERATURE: HVAC system error code E144
+2025-04-04-12.27.42.713 INFO 0878 FILESYSTEM: Filesystem /home defragmentation completed
+2025-04-04-12.27.46.988 INFO 0062 FILESYSTEM: Filesystem /scratch mounted on node 0062
+2025-04-04-12.27.51.911 INFO 0702 PROCESSOR: CPU utilization at 43% on node 0702
+2025-04-04-12.27.53.736 ERROR 0279 FILESYSTEM: Routine filesystem check passed on /usr
+2025-04-04-12.27.54.240 ERROR 0702 FILESYSTEM: Journal commit failure on /var
+2025-04-04-12.27.56.741 ERROR 0876 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.28.00.393 ERROR 0915 FILESYSTEM: Filesystem /home defragmentation completed
+2025-04-04-12.28.04.646 INFO 0190 PROCESSOR: Processor frequency scaled to 2.52 GHz
+2025-04-04-12.28.07.426 ERROR 0466 MEMORY: Swap usage at 49% on node 0466
+2025-04-04-12.28.07.455 INFO 0580 POWER: Power supply status normal on rack R12
+2025-04-04-12.28.12.249 INFO 0352 FILESYSTEM: Quota usage at 6% on filesystem /scratch
+2025-04-04-12.28.12.916 INFO 0748 TEMPERATURE: Temperature critical at 40°C in rack R16
+2025-04-04-12.28.13.174 INFO 0125 PROCESSOR: Instruction cache error on core 29
+2025-04-04-12.28.17.608 INFO 0134 APPLICATION: Application namd crashed with signal SIGABRT
+2025-04-04-12.28.18.101 INFO 0022 MEMORY: Memory test passed on node 0022
+2025-04-04-12.28.18.191 INFO 0625 SCHEDULER: Queue status: 64 jobs waiting, 477 jobs running
+2025-04-04-12.28.18.563 WARNING 0696 MEMORY: Memory page fault at address 0x3c28a04f
+2025-04-04-12.28.18.751 INFO 0120 NETWORK: TCP connection timeout on port 38016
+2025-04-04-12.28.22.789 ERROR 0845 POWER: UPS activated due to power instability
+2025-04-04-12.28.25.747 INFO 0285 FILESYSTEM: File corruption detected at /path/to/file_473.dat
+2025-04-04-12.28.29.340 WARNING 0612 POWER: UPS activated due to power instability
+2025-04-04-12.28.32.409 INFO 0812 KERNEL: System performance metrics collected on node 0812
+2025-04-04-12.28.33.322 INFO 0800 NETWORK: Packet loss detected between nodes 0800 and 0581
+2025-04-04-12.28.36.568 INFO 0910 NETWORK: Packet loss detected between nodes 0910 and 0861
+2025-04-04-12.28.36.891 INFO 0353 APPLICATION: Application namd requested 105 GB memory
+2025-04-04-12.28.38.098 INFO 0462 KERNEL: Kernel update completed successfully on node 0462
+2025-04-04-12.28.39.790 INFO 0711 PROCESSOR: Processor completed 6857270 cycles
+2025-04-04-12.28.40.058 INFO 0234 APPLICATION: Application linpack requested 48 GB memory
+2025-04-04-12.28.40.978 INFO 0351 MEMORY: Memory test passed on node 0351
+2025-04-04-12.28.42.977 INFO 0031 IO: Read timeout on device /dev/sdh
+2025-04-04-12.28.44.166 INFO 0774 PROCESSOR: CPU utilization at 60% on node 0774
+2025-04-04-12.28.46.451 WARNING 0571 PROCESSOR: CPU idle at 45% on node 0571
+2025-04-04-12.28.46.687 INFO 0126 KERNEL: Memory allocation failed at address 0x987b3720
+2025-04-04-12.28.49.698 INFO 0525 IO: Disk /dev/sde full on node 0525
+2025-04-04-12.28.49.863 INFO 0385 FILESYSTEM: Routine filesystem check passed on /tmp
+2025-04-04-12.28.51.877 INFO 0393 IO: I/O error on device /dev/sde sector 628135
+2025-04-04-12.28.51.963 INFO 0274 PROCESSOR: CPU idle at 47% on node 0274
+2025-04-04-12.28.54.454 ERROR 0196 NETWORK: Connectivity verified between node 0196 and 0963
+2025-04-04-12.28.54.979 ERROR 0822 MEMORY: Memory test passed on node 0822
+2025-04-04-12.28.56.661 INFO 0766 FILESYSTEM: Filesystem /scratch defragmentation completed
+2025-04-04-12.28.58.827 INFO 0949 APPLICATION: Job 9132 resource usage within expected parameters
+2025-04-04-12.29.01.940 INFO 0142 FILESYSTEM: Filesystem /scratch mounted on node 0142
+2025-04-04-12.29.05.543 INFO 0956 NETWORK: Network throughput dropped to 482 MB/s
+2025-04-04-12.29.09.988 INFO 0126 POWER: Power supply PSU1 failed on rack R14
+2025-04-04-12.29.11.432 INFO 0642 APPLICATION: Application hpcg requested 67 GB memory
+2025-04-04-12.29.13.619 INFO 0337 IO: Device /dev/sdd read speed: 271 MB/s
+2025-04-04-12.29.18.099 INFO 0710 NETWORK: Network configuration updated on node 0710
+2025-04-04-12.29.18.642 INFO 0473 POWER: UPS activated due to power instability
+2025-04-04-12.29.20.448 INFO 0284 APPLICATION: Application metrics collected for mpi_app
+2025-04-04-12.29.23.958 INFO 0008 PROCESSOR: Processor 9 throttling due to temperature
+2025-04-04-12.29.26.402 ERROR 0518 KERNEL: Kernel panic on node 0518, process 31995 terminated
+2025-04-04-12.29.27.248 WARNING 0020 APPLICATION: Performance degradation detected in job 9700
+2025-04-04-12.29.30.899 INFO 0801 TEMPERATURE: Temperature stable at 44°C in rack R02
+2025-04-04-12.29.34.975 INFO 0966 IO: Write error on file /path/to/file_268.dat
+2025-04-04-12.29.36.365 INFO 0528 TEMPERATURE: Thermal throttling activated on node 0528
+2025-04-04-12.29.38.470 INFO 0996 IO: Write error on file /path/to/file_44.dat
+2025-04-04-12.29.38.782 INFO 0452 SCHEDULER: Job 6176 completed in 18214 seconds
+2025-04-04-12.29.40.786 INFO 0488 FILESYSTEM: Filesystem /usr defragmentation completed
+2025-04-04-12.29.41.128 ERROR 0643 IO: Disk performance test completed on node 0643
+2025-04-04-12.29.44.514 INFO 0463 POWER: Power supply status normal on rack R03
+2025-04-04-12.29.45.011 INFO 0630 APPLICATION: Performance degradation detected in job 5007
+2025-04-04-12.29.46.351 INFO 0968 NETWORK: Network throughput dropped to 938 MB/s
+2025-04-04-12.29.48.272 INFO 0295 IO: Disk performance test completed on node 0295
+2025-04-04-12.29.51.383 WARNING 0325 PROCESSOR: Processor completed 4940613 cycles
+2025-04-04-12.29.54.246 INFO 0238 POWER: Entering power saving mode on node 0238
+2025-04-04-12.29.56.530 INFO 0709 FILESYSTEM: Quota usage at 70% on filesystem /usr
+2025-04-04-12.29.56.612 INFO 0056 POWER: Power consumption within normal parameters
+2025-04-04-12.29.57.528 INFO 0343 KERNEL: System performance metrics collected on node 0343
+2025-04-04-12.30.01.318 INFO 0612 FILESYSTEM: Journal commit failure on /tmp
+2025-04-04-12.30.04.180 INFO 0589 FILESYSTEM: Filesystem /usr remounted read-only due to errors
+2025-04-04-12.30.07.544 INFO 0883 NETWORK: Connectivity verified between node 0883 and 0358
+2025-04-04-12.30.08.431 INFO 0687 POWER: Power consumption within normal parameters
+2025-04-04-12.30.12.056 INFO 1000 APPLICATION: Performance degradation detected in job 4878
+2025-04-04-12.30.14.512 INFO 0149 KERNEL: Memory allocation failed at address 0xb1b516be
+2025-04-04-12.30.16.210 INFO 0499 SCHEDULER: Scheduler load balanced across 57 nodes
+2025-04-04-12.30.16.905 INFO 0190 POWER: Energy efficiency optimized on node 0190
+2025-04-04-12.30.20.498 INFO 0312 FILESYSTEM: Journal commit failure on /usr
+2025-04-04-12.30.24.895 ERROR 0659 POWER: Power consumption within normal parameters
+2025-04-04-12.30.26.231 INFO 0184 NETWORK: Network throughput dropped to 811 MB/s
+2025-04-04-12.30.26.972 INFO 0653 POWER: Energy efficiency optimized on node 0653
+2025-04-04-12.30.31.205 WARNING 0704 MEMORY: Swap usage at 79% on node 0704
+2025-04-04-12.30.34.660 WARNING 0799 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.30.39.202 INFO 0363 MEMORY: Memory check completed: PARTIAL
+2025-04-04-12.30.40.497 INFO 0720 PROCESSOR: CPU utilization at 36% on node 0720
+2025-04-04-12.30.41.849 INFO 0641 NETWORK: TCP connection timeout on port 11185
+2025-04-04-12.30.46.644 INFO 0390 KERNEL: Kernel panic on node 0390, process 31553 terminated
+2025-04-04-12.30.48.527 INFO 0110 POWER: Power consumption within normal parameters
+2025-04-04-12.30.50.748 INFO 0388 SCHEDULER: Resource availability updated: 748 CPUs, 7260 GB memory
+2025-04-04-12.30.52.974 INFO 0497 NETWORK: Network throughput dropped to 895 MB/s
+2025-04-04-12.30.53.743 INFO 0005 APPLICATION: Application hpcg requested 25 GB memory
+2025-04-04-12.30.56.801 ERROR 0988 PROCESSOR: Processor 6 throttling due to temperature
+2025-04-04-12.30.58.056 INFO 0997 POWER: Entering power saving mode on node 0997
+2025-04-04-12.30.58.270 WARNING 0703 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.31.03.188 INFO 0508 SCHEDULER: Queue status: 53 jobs waiting, 378 jobs running
+2025-04-04-12.31.05.520 WARNING 0969 APPLICATION: Application metrics collected for vasp
+2025-04-04-12.31.05.918 INFO 0977 NETWORK: Network interface eth0 down on node 0977
+2025-04-04-12.31.07.274 WARNING 0645 POWER: Energy efficiency optimized on node 0645
+2025-04-04-12.31.10.305 INFO 1010 NETWORK: Network configuration updated on node 1010
+2025-04-04-12.31.11.347 INFO 0704 APPLICATION: Application vasp started successfully on node 0704
+2025-04-04-12.31.13.020 INFO 0638 POWER: Power supply status normal on rack R04
+2025-04-04-12.31.16.451 WARNING 0219 KERNEL: Memory allocation failed at address 0xcecea06e
+2025-04-04-12.31.18.048 INFO 0994 POWER: Power consumption at 1427 watts
+2025-04-04-12.31.20.548 INFO 0145 TEMPERATURE: Temperature critical at 58°C in rack R04
+2025-04-04-12.31.20.962 ERROR 0395 KERNEL: System performance metrics collected on node 0395
+2025-04-04-12.31.24.288 INFO 0391 FILESYSTEM: Inode table overflow on /tmp
+2025-04-04-12.31.27.868 INFO 0867 TEMPERATURE: HVAC maintenance completed successfully
+2025-04-04-12.31.29.937 INFO 0186 APPLICATION: Application gromacs started successfully on node 0186
+2025-04-04-12.31.32.929 ERROR 0647 APPLICATION: Application metrics collected for namd
+2025-04-04-12.31.37.581 INFO 0287 IO: Write error on file /path/to/file_409.dat
+2025-04-04-12.31.42.474 INFO 0246 SCHEDULER: Job 5263 failed with exit code 203
+2025-04-04-12.31.45.094 INFO 0990 APPLICATION: Job 2669 resource usage within expected parameters
+2025-04-04-12.31.45.881 INFO 0813 PROCESSOR: Processor completed 9182858 cycles
+2025-04-04-12.31.48.721 INFO 0779 MEMORY: Out of memory error, killed process 11419
+2025-04-04-12.31.50.651 INFO 0046 APPLICATION: Job 7048 resource usage within expected parameters
+2025-04-04-12.31.52.136 INFO 0740 KERNEL: System performance metrics collected on node 0740
+2025-04-04-12.31.54.461 WARNING 0742 KERNEL: System call fork failed with error 218
+2025-04-04-12.31.56.531 INFO 0106 APPLICATION: MPI communication timeout in job 2828
+2025-04-04-12.31.58.890 ERROR 0028 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.31.59.143 INFO 0340 IO: Read timeout on device /dev/sdc
+2025-04-04-12.31.59.443 INFO 0772 NETWORK: Network bandwidth test completed on node 0772: 249 MB/s
+2025-04-04-12.31.59.537 WARNING 0495 APPLICATION: Performance degradation detected in job 3140
+2025-04-04-12.32.03.066 INFO 0478 MEMORY: Memory test passed on node 0478
+2025-04-04-12.32.07.530 INFO 0741 APPLICATION: Checkpoint created for job 3782 at 2025-04-04-12.32.03.711
+2025-04-04-12.32.09.449 INFO 0990 MEMORY: Memory check completed: PARTIAL
+2025-04-04-12.32.13.203 INFO 0290 NETWORK: Network interface eth0 down on node 0290
+2025-04-04-12.32.15.937 INFO 0725 PROCESSOR: Instruction cache error on core 8
+2025-04-04-12.32.17.098 INFO 0706 MEMORY: Memory leak detected in process 12000
+2025-04-04-12.32.19.068 INFO 0532 KERNEL: System performance metrics collected on node 0532
+2025-04-04-12.32.20.257 INFO 0190 MEMORY: Memory test passed on node 0190
+2025-04-04-12.32.22.173 INFO 0327 FILESYSTEM: Journal commit failure on /scratch
+2025-04-04-12.32.26.018 INFO 0381 KERNEL: Kernel panic on node 0381, process 24560 terminated
+2025-04-04-12.32.29.242 INFO 0334 IO: I/O wait time increased to 267 ms
+2025-04-04-12.32.30.889 INFO 0625 FILESYSTEM: Inode table overflow on /tmp
+2025-04-04-12.32.31.477 FATAL 0405 FILESYSTEM: Routine filesystem check passed on /tmp
+2025-04-04-12.32.32.881 INFO 0350 APPLICATION: Application hpcg started successfully on node 0350
+2025-04-04-12.32.35.409 FATAL 0220 POWER: Entering power saving mode on node 0220
+2025-04-04-12.32.38.676 WARNING 0701 TEMPERATURE: Temperature critical at 68°C in rack R16
+2025-04-04-12.32.39.171 ERROR 0557 KERNEL: Process 4523 started with priority 49
+2025-04-04-12.32.43.047 WARNING 0367 SCHEDULER: Job 9239 completed in 49393 seconds
+2025-04-04-12.32.48.007 WARNING 0953 MEMORY: Swap usage at 34% on node 0953
+2025-04-04-12.32.51.040 WARNING 0129 SCHEDULER: Job 4116 scheduled on nodes 0786-0796
+2025-04-04-12.32.52.861 INFO 0398 FILESYSTEM: Quota usage at 18% on filesystem /scratch
+2025-04-04-12.32.57.259 INFO 0341 TEMPERATURE: Cooling fan FAN3 failed in node 0341
+2025-04-04-12.32.58.140 INFO 0467 NETWORK: Connectivity verified between node 0467 and 0366
+2025-04-04-12.33.02.165 INFO 0297 MEMORY: Memory leak detected in process 3761
+2025-04-04-12.33.05.352 FATAL 0161 NETWORK: Packet loss detected between nodes 0161 and 0725
+2025-04-04-12.33.09.039 INFO 0249 KERNEL: System call fork failed with error 55
+2025-04-04-12.33.11.154 ERROR 0668 TEMPERATURE: Temperature stable at 59°C in rack R15
+2025-04-04-12.33.11.935 INFO 0881 PROCESSOR: Instruction cache error on core 29
+2025-04-04-12.33.13.605 ERROR 0095 FILESYSTEM: Journal commit failure on /usr
+2025-04-04-12.33.14.150 INFO 0196 POWER: Voltage fluctuation detected on rail 5V
+2025-04-04-12.33.15.235 INFO 0366 SCHEDULER: Queue status: 49 jobs waiting, 402 jobs running
+2025-04-04-12.33.15.824 INFO 0797 IO: I/O scheduler switched to deadline on node 0797
+2025-04-04-12.33.17.966 INFO 0822 TEMPERATURE: Temperature stable at 57°C in rack R10
+2025-04-04-12.33.21.713 INFO 0770 NETWORK: Network throughput dropped to 657 MB/s
+2025-04-04-12.33.25.573 INFO 0675 TEMPERATURE: Cooling fan FAN3 failed in node 0675
+2025-04-04-12.33.27.336 INFO 0989 PROCESSOR: CPU utilization at 42% on node 0989
+2025-04-04-12.33.31.522 INFO 1008 SCHEDULER: Queue status: 61 jobs waiting, 309 jobs running
+2025-04-04-12.33.34.167 INFO 0439 IO: I/O wait time increased to 142 ms
+2025-04-04-12.33.34.816 INFO 0405 APPLICATION: Application metrics collected for namd
+2025-04-04-12.33.34.987 INFO 0373 PROCESSOR: CPU utilization at 52% on node 0373
+2025-04-04-12.33.36.244 ERROR 0502 PROCESSOR: CPU temperature at 73°C on node 0502
+2025-04-04-12.33.37.852 FATAL 0964 NETWORK: Connectivity verified between node 0964 and 0923
+2025-04-04-12.33.38.321 FATAL 1014 POWER: Energy efficiency optimized on node 1014
+2025-04-04-12.33.39.354 INFO 0509 NETWORK: Connectivity verified between node 0509 and 0434
+2025-04-04-12.33.42.258 INFO 0415 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.33.47.043 INFO 0320 NETWORK: Network configuration updated on node 0320
+2025-04-04-12.33.48.443 INFO 0191 PROCESSOR: CPU temperature at 36°C on node 0191
+2025-04-04-12.33.50.448 INFO 0101 KERNEL: System performance metrics collected on node 0101
+2025-04-04-12.33.53.944 INFO 0593 SCHEDULER: Job 7230 scheduled on nodes 0091-0096
+2025-04-04-12.33.57.229 INFO 0845 IO: Disk performance test completed on node 0845
+2025-04-04-12.33.57.534 WARNING 0418 PROCESSOR: Core 0 running optimally on node 0418
+2025-04-04-12.33.57.763 INFO 0264 KERNEL: Kernel panic on node 0264, process 375 terminated
+2025-04-04-12.34.01.982 INFO 0490 IO: I/O error on device /dev/sdb sector 159342
+2025-04-04-12.34.03.403 INFO 0716 APPLICATION: Application linpack crashed with signal SIGTERM
+2025-04-04-12.34.07.645 INFO 0861 NETWORK: Connectivity verified between node 0861 and 0117
+2025-04-04-12.34.10.428 WARNING 1020 PROCESSOR: Core 20 running optimally on node 1020
+2025-04-04-12.34.10.867 INFO 0037 TEMPERATURE: Temperature normalized at 43°C
+2025-04-04-12.34.11.590 WARNING 0048 MEMORY: Swap usage at 28% on node 0048
+2025-04-04-12.34.12.948 WARNING 0721 PROCESSOR: Instruction cache error on core 6
+2025-04-04-12.34.16.296 WARNING 0179 KERNEL: System performance metrics collected on node 0179
+2025-04-04-12.34.17.753 INFO 0373 TEMPERATURE: Temperature normalized at 32°C
+2025-04-04-12.34.20.538 INFO 0731 PROCESSOR: Processor completed 7311483 cycles
+2025-04-04-12.34.21.516 INFO 0424 PROCESSOR: Processor completed 7039656 cycles
+2025-04-04-12.34.26.368 INFO 0287 FILESYSTEM: File corruption detected at /path/to/file_851.dat
+2025-04-04-12.34.28.049 INFO 0472 MEMORY: Memory leak detected in process 17210
+2025-04-04-12.34.31.546 INFO 0851 PROCESSOR: Processor completed 5515778 cycles
+2025-04-04-12.34.32.510 INFO 0485 POWER: Entering power saving mode on node 0485
+2025-04-04-12.34.37.494 INFO 0855 NETWORK: Network bandwidth test completed on node 0855: 931 MB/s
+2025-04-04-12.34.41.213 INFO 0414 KERNEL: Memory allocation failed at address 0x10e43df8
+2025-04-04-12.34.43.312 INFO 0681 APPLICATION: Performance degradation detected in job 6563
+2025-04-04-12.34.45.085 INFO 0631 KERNEL: Memory allocation failed at address 0xb388a514
+2025-04-04-12.34.45.248 INFO 0386 FILESYSTEM: Quota usage at 70% on filesystem /var
+2025-04-04-12.34.45.740 INFO 0906 FILESYSTEM: File corruption detected at /path/to/file_861.dat
+2025-04-04-12.34.46.838 FATAL 0690 PROCESSOR: Processor completed 9564318 cycles
+2025-04-04-12.34.51.199 INFO 0240 IO: Disk performance test completed on node 0240
+2025-04-04-12.34.53.494 INFO 0677 TEMPERATURE: Temperature critical at 83°C in rack R10
+2025-04-04-12.34.54.445 INFO 0913 MEMORY: Out of memory error, killed process 7736
+2025-04-04-12.34.55.778 INFO 0847 FILESYSTEM: Inode table overflow on /scratch
+2025-04-04-12.34.58.258 INFO 0481 APPLICATION: Job 5646 resource usage within expected parameters
+2025-04-04-12.34.58.967 INFO 0553 APPLICATION: Application hpcg started successfully on node 0553
+2025-04-04-12.35.01.020 INFO 0818 PROCESSOR: CPU temperature at 58°C on node 0818
+2025-04-04-12.35.03.808 INFO 0104 IO: Read timeout on device /dev/sda
+2025-04-04-12.35.06.936 INFO 0145 SCHEDULER: Scheduler queue full, rejecting new jobs
+2025-04-04-12.35.10.668 INFO 0939 TEMPERATURE: Cooling fan FAN6 failed in node 0939
+2025-04-04-12.35.15.561 INFO 0464 KERNEL: Kernel panic on node 0464, process 25894 terminated
+2025-04-04-12.35.18.827 WARNING 0803 APPLICATION: Application linpack started successfully on node 0803
+2025-04-04-12.35.19.348 ERROR 1003 FILESYSTEM: Inode table overflow on /tmp
+2025-04-04-12.35.20.639 INFO 0505 KERNEL: Process 17692 started with priority 67
+2025-04-04-12.35.20.772 INFO 0751 APPLICATION: Application hpcg requested 28 GB memory
+2025-04-04-12.35.21.855 INFO 1020 PROCESSOR: Processor 24 throttling due to temperature
